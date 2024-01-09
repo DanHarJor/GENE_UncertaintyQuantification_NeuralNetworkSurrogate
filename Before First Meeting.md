@@ -1,0 +1,29 @@
+My Duties. 
+# Advanced Computing Hub. 
+GENE - Uncertianty Quantification. 
+## People 
+- Ionut Gabrial, Expert in UQ from texas.
+- Franberg, Frederic G. Head of GENE, The ACH client?? 
+- who are the other people? 
+GENE an open source plasma microturbulence code which can be used to efficiently compute gyroradius-scale fluctuations and the resulting transport coefficients in magnetized fusion/astrophysical plasmas. it solves the nonlinear gyrokinetic equations on a fixed grid in five-dimensional phase space (plus time). The solutions of the non linear gyrokinetic equations are positions of the plasma particles gyro centers in the 5 dimensional phase space. # Questions What are these dimensions? One is time. What is this fixed grid?? Does this define the only positions that particles can have. In other words the resolution of the particle positions. This would be a source of uncertainty. What other sources of uncertianty can we expect. # Forward Uncertainty vs Inverse Uncertainty Quantification
+
+[https://doi.org/10.1016/j.nucengdes.2018.06.003](https://doi.org/10.1016/j.nucengdes.2018.06.003)
+
+The significance of Uncertainty Quantification (UQ) has been widely recognized in the nuclear community and numerous publications have been devoted to UQ methods and applications in response to the Best Estimate Plus Uncertainty (BEPU) methodology (Petruzzi et al., 2010, Unal et al., 2011, D’Auria et al., 2012, Wilson, 2013). However, the concept of UQ in the nuclear community generally means “forward UQ”, which is the process to propagate input uncertainties to the Quantity-of-Interests (QoIs) via the computer codes. Forward UQ requires the input uncertainty information, such as the statistical moments, Probability Density Functions (PDFs), upper and lower bounds, etc. “Expert opinion” or “user self-assessment” have been widely used to specify such information in previous uncertainty and sensitivity studies. Such ad-hoc specifications are unscientific and lack mathematical rigor, even if they have been considered reasonable for a long time. Inverse UQ can be used to tackle the “lack of input uncertainty information” issue, which is a process to quantify the input uncertainties given experimental data. In our companion paper (Wu et al., 2018a, Wu et al., 2018b), we discussed the connection and difference between inverse UQ and calibration. In brief, deterministic calibration only results in point estimates of best-fit input parameters, while Bayesian calibration and inverse UQ target at quantifying the uncertainties in these input uncertainties. Since measurement data are usually insufficient to inform us about the “true” or “exact” values of the calibration parameters, uncertainties in calibration parameters should be quantified to prevent over-confidence in the calibration process. Besides the subtle differences between Bayesian calibration and inverse UQ discussed in Wu et al., 2018a, Wu et al., 2018b, they can be treated as the same concept in most cases. # Sparce Grid Forward Uncertainty Quantification - pinch of salt The experimental measurements are made. The uncertianties of the GENE code outputs are provided. Using a sparce grid of possible true outputs given the uncertainty the experimantal measurements can be recalculated and seen to deviate largely from the origional measurement. # Inverse Uncertainty Quantification - pinch of salt In Inverse-UQ the goal is to aquire uncertanties of unknown model parameters that often have to be found with optimisation techniques. The models outputs with a sparce grid of the unknown model parameters can be compared with experimental measurements in order to determine the uncertainty. This would require an inverse model which can go from real experimental measuremnts to model outputs. It is unlikely that one can go from experimental measurements to particle positions as many particle positions would produce the same This compares measured data of a physical quantity with the simulations values of the same quantity. # Plan of Action Get GENE running on my laptop Learn basics of LUMI API and ML framework Read Inots Thesis on forward UQ Read about gene and when it was used and find potential measurements that could benifit from UQ # The GENE surrogate model DEEPlasma Mybe start with simple physics informaed ML for example, ball rolling down a hill. Have you done anything so far?
+
+[
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+](https://doi.org/10.1016/j.nucengdes.2018.06.003)
