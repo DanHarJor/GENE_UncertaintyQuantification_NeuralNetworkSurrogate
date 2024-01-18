@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyAchievments/2024-01-17.md",
+                "file": "DailyAchievments/2024-01-18.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyAchievments/2024-01-17.md",
+                "file": "DailyAchievments/2024-01-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DailyAchievments/2024-01-17.md",
+                "file": "DailyAchievments/2024-01-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DailyAchievments/2024-01-17.md"
+                "file": "DailyAchievments/2024-01-18.md"
               }
             }
           }
@@ -221,27 +221,32 @@
   },
   "active": "a6e018a8e07c4f9a",
   "lastOpenFiles": [
-    "DailyAchievments/2024-01-16.md",
+    "Library/QuasiLinearGyrokinetics/Qualikitz/Felici_NF18_RealTimeTemperatureAndDensityProfiles.pdf",
+    "Library/QuasiLinearGyrokinetics/Qualikitz/Felici_NF18.pdf",
+    "Library/QuasiLinearGyrokinetics/Qualikitz/Plassche_fastTurbulanceWithNN.pdf",
+    "Library/QuasiLinearGyrokinetics/Qualikitz/fast.pdf",
+    "Library/QuasiLinearGyrokinetics/Qualikitz/Inclusion of Physics Constraints in\nNeural Network SurrogateModelsForFusion_SimulationMSc_Thesis_Philipp_Horn.pdf",
+    "Library/QuasiLinearGyrokinetics/Qualikitz/Qualikiz_HDR_bourdelle_jan2015_final_more_details.pdf",
+    "Library/QuasiLinearGyrokinetics/Qualikitz",
+    "Library/QuasiLinearGyrokinetics/Inclusion of Physics Constraints in\nNeural Network SurrogateModelsForFusion_SimulationMSc_Thesis_Philipp_Horn.pdf",
+    "Library/UncertiantyQuantification/IonutFarcas/paper1.pdf",
+    "Library/UncertiantyQuantification/IonutFarcas/paper2.pdf",
+    "Library/UncertiantyQuantification/IonutFarcas/paper3.pdf",
     "DailyAchievments/2024-01-17.md",
-    "Untitled 1.md",
-    "other similar projects.md",
-    "Library Map.md",
+    "DailyAchievments/2024-01-18.md",
+    "Team Meetings - Adam, Amanda, Aaro/2024-01-18.md",
     "Future Group meeting Points to Discuss.md",
+    "Abstract drafting text dump.md",
+    "Library Map.md",
+    "other similar projects.md",
+    "To DO list.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "DailyAchievments/2024-01-16.md",
     "Deep Fusion Kickoff Meeting.md",
     "Before First Meeting.md",
-    "Library/Instabilities/Frassinetti_2021_Nucl._Fusion_61_016001.pdf",
-    "Library/BayesianODE/TronarpBayesianODE2021.pdf",
-    "Library/BayesianODE",
     "Instabilities.md",
-    "Library/TurbulanceSurrogate/Zanisi_physInfALforGyrokinetics.pdf",
-    "Library/TurbulanceSurrogate/Zanisi.pdf",
-    "Library/TurbulanceSurrogate/Zanssi.pdf",
-    "Library/TurbulanceSurrogate/Unconfirmed 508291.crdownload",
-    "Library/TurbulanceSurrogate/CitrinGENEnnSurrogate.pdf",
-    "Library/TurbulanceSurrogate/Unconfirmed 782061.crdownload",
     "DailyAchievments/2024-01-05.md",
-    "To DO list.md",
-    "Library/Instabilities/Unconfirmed 867561.crdownload",
     "DailyAchievments/2024-01-12.md",
     "DailyAchievments/2024-01-15.md",
     "DailyAchievments/2024-01-03.md",
@@ -249,11 +254,8 @@
     "DailyAchievments/2024-01-04.md",
     "DailyAchievments/2024-01-02.md",
     "DailyAchievments/2024-01-10.md",
-    "Abstract drafting text dump.md",
     "DailyAchievments/2024-01-09.md",
     "DailyAchievments/2024-01-08.md",
-    "README.md",
-    "Untitled.md",
-    "2024-01-03.md"
+    "README.md"
   ]
 }
