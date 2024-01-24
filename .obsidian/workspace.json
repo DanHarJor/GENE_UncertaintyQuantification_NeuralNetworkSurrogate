@@ -4,95 +4,57 @@
     "type": "split",
     "children": [
       {
-        "id": "5498917149635dbe",
+        "id": "aed2d9635ed43c2b",
         "type": "tabs",
         "children": [
           {
-            "id": "f482250c66b3b718",
+            "id": "1d5364ef12110f9f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyAchievments/2024-01-03.md",
+                "file": "PhD Application/Application Forum.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "95fa65593b7da4ab",
+            "id": "6cf3297b464746a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyAchievments/2024-01-09.md",
+                "file": "Library Map.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "35cf801aab8c8cde",
+            "id": "e7ac564fb56526ec",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "DailyAchievments/2024-01-16.md",
-                "mode": "source",
-                "source": false
+                "file": "Library/GENEandGyrokinetics/FrankJenkoGyrokineticIntroduction.pdf"
               }
             }
           },
           {
-            "id": "00fcccd8535664ca",
+            "id": "57f850d61e4b1f81",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "other similar projects.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e302858e59706273",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DailyAchievments/2024-01-05.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "37722bf1679f942b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DailyAchievments/2024-01-16.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a6e018a8e07c4f9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DailyAchievments/2024-01-18.md",
+                "file": "DailyAchievments/2024-01-24.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -158,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyAchievments/2024-01-18.md",
+                "file": "DailyAchievments/2024-01-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DailyAchievments/2024-01-18.md",
+                "file": "DailyAchievments/2024-01-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DailyAchievments/2024-01-18.md"
+                "file": "DailyAchievments/2024-01-24.md"
               }
             }
           }
@@ -219,43 +181,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a6e018a8e07c4f9a",
+  "active": "57f850d61e4b1f81",
   "lastOpenFiles": [
-    "Library/QuasiLinearGyrokinetics/Qualikitz/Felici_NF18_RealTimeTemperatureAndDensityProfiles.pdf",
-    "Library/QuasiLinearGyrokinetics/Qualikitz/Felici_NF18.pdf",
-    "Library/QuasiLinearGyrokinetics/Qualikitz/Plassche_fastTurbulanceWithNN.pdf",
-    "Library/QuasiLinearGyrokinetics/Qualikitz/fast.pdf",
-    "Library/QuasiLinearGyrokinetics/Qualikitz/Inclusion of Physics Constraints in\nNeural Network SurrogateModelsForFusion_SimulationMSc_Thesis_Philipp_Horn.pdf",
-    "Library/QuasiLinearGyrokinetics/Qualikitz/Qualikiz_HDR_bourdelle_jan2015_final_more_details.pdf",
-    "Library/QuasiLinearGyrokinetics/Qualikitz",
-    "Library/QuasiLinearGyrokinetics/Inclusion of Physics Constraints in\nNeural Network SurrogateModelsForFusion_SimulationMSc_Thesis_Philipp_Horn.pdf",
-    "Library/UncertiantyQuantification/IonutFarcas/paper1.pdf",
-    "Library/UncertiantyQuantification/IonutFarcas/paper2.pdf",
-    "Library/UncertiantyQuantification/IonutFarcas/paper3.pdf",
-    "DailyAchievments/2024-01-17.md",
-    "DailyAchievments/2024-01-18.md",
-    "Team Meetings - Adam, Amanda, Aaro/2024-01-18.md",
-    "Future Group meeting Points to Discuss.md",
-    "Abstract drafting text dump.md",
+    "Compiling Gene On LUMI.md",
+    "DailyAchievments/2024-01-23.md",
+    "DailyAchievments/2024-01-24.md",
+    "Library/GENEandGyrokinetics/FrankJenkoGyrokineticIntroduction.pdf",
     "Library Map.md",
+    "PhD Application/Application Forum.md",
+    "Library/Instabilities/Frassinetti_2021_Nucl._Fusion_61_016001.pdf",
+    "Library/TurbulanceSurrogate/Zanisi_physInfALforGyrokinetics.pdf",
+    "Library/UncertiantyQuantification/IonutFarcas/Ionut_UQ_2022.pdf",
+    "Library/TurbulanceSurrogate/CitrinGENEnnSurrogate.pdf",
+    "PhD Application/Research Proposal.md",
+    "Abstract drafting text dump.md",
+    "DailyAchievments/2024-01-03.md",
+    "DailyAchievments/2024-01-09.md",
+    "DailyAchievments/2024-01-16.md",
+    "DailyAchievments/2024-01-05.md",
+    "ICDDPS5/ICDDPS5 International Conference Data Driven Plasma Science - 5.md",
+    "PhD Application/Study Plan.md",
+    "PhD Application/AmandaProposal.pdf",
+    "Other Meetings/2024-01-23 - Joe and Leonardo.md",
+    "Other Meetings/Untitled.md",
+    "Other Meetings",
+    "Library/To be organised/KarniadakisPINNreviewPaper.pdf",
+    "Library/To be organised/PINNreviewPaper.pdf",
+    "Library/To be organised/DhruvPatelVariationallyMimeticOperatiorNetowrks.pdf",
+    "DailyAchievments/2024-01-22.md",
+    "Team Meetings - Adam, Amanda, Aaro/2024-01-18.md",
+    "DailyAchievments/2024-01-18.md",
+    "DailyAchievments/2024-01-17.md",
+    "Future Group meeting Points to Discuss.md",
     "other similar projects.md",
     "To DO list.md",
-    "Untitled.md",
     "Untitled 1.md",
-    "DailyAchievments/2024-01-16.md",
     "Deep Fusion Kickoff Meeting.md",
-    "Before First Meeting.md",
-    "Instabilities.md",
-    "DailyAchievments/2024-01-05.md",
-    "DailyAchievments/2024-01-12.md",
-    "DailyAchievments/2024-01-15.md",
-    "DailyAchievments/2024-01-03.md",
-    "DailyAchievments/2024-01-11.md",
-    "DailyAchievments/2024-01-04.md",
-    "DailyAchievments/2024-01-02.md",
-    "DailyAchievments/2024-01-10.md",
-    "DailyAchievments/2024-01-09.md",
-    "DailyAchievments/2024-01-08.md",
-    "README.md"
+    "Before First Meeting.md"
   ]
 }
