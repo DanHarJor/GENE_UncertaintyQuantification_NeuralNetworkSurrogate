@@ -25,6 +25,24 @@ module load
 gmake -j
 
 This solved the issue
+
+Now the compiler isn't linked
+
+order of execution trial 1
+cd gene
+module load PrgEnv-cray, If I load this then it can't find PETSc/SLEPc
+if I don't load it then it can't find fortran. But fortan is there it is just in 
+export FC=/usr/bin/gfortran
+gmake get_required_modules
+gmake -j
+
+order of execution trial 2
+export FC=/usr/bin/gfortran
+export MACHINE="dan_mac"
+module purge
+cd gene
+gmake get_required_modules
+gmake -j
 # compiling Gene on work laptop
 
 docs created fine
