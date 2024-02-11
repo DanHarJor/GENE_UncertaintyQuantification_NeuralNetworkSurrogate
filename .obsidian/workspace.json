@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PhD Application/Application Forum (Cut).md",
+                "file": "ToyProblem/First Meeting with David.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Liquid Gold.md",
+                "file": "Compiling Gene On LUMI.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PhD Application/Application Forum (Cut).md",
+                "file": "Compiling Gene On LUMI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PhD Application/Application Forum (Cut).md",
+                "file": "Compiling Gene On LUMI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PhD Application/Application Forum (Cut).md"
+                "file": "Compiling Gene On LUMI.md"
               }
             }
           }
@@ -194,16 +194,27 @@
       "zotero-sync-client:Sync with Zotero": false
     }
   },
-  "active": "57f850d61e4b1f81",
+  "active": "a1d84d4cc9522548",
   "lastOpenFiles": [
-    "PhD Application/Application Forum.md",
-    "PhD Application/Application Forum (Cut).md",
+    "ToyProblem/First Meeting with David.md",
     "Liquid Gold.md",
+    "Untitled.md",
+    "ToyProblem",
+    "DailyAchievments/2024-02-02.md",
+    "DailyAchievments/2024-02-01.md",
+    "DailyAchievments/Jan/2024-01-02.md",
+    "DailyAchievments/Jan",
+    "DailyAchievments/Jan/2024-01-31.md",
+    "PhD Application/Application Forum draft 2.md",
+    "PhD Application/Application Forum.md",
+    "PhD Application/Application Forum Draft 1.md",
+    "PhD Application/Application Forum 1.md",
+    "DailyAchievments/Jan/2024-01-29.md",
+    "DailyAchievments/Jan/2024-01-30.md",
     "PhD Application/AmandaProposal.pdf",
     "Library Map.md",
     "PhD Application/Study Plan.md",
     "PhD Application/Research Proposal.md",
-    "2024-01-29.md",
     "References/De+2017.md",
     "References/Sarkka+2019.md",
     "References/Tronarp+2019.md",
@@ -214,23 +225,12 @@
     "References/Karniadakis+2021.md",
     "References/Frassinetti+2021.md",
     "References/Curie+2022.md",
-    "References/Hatch+2016.md",
-    "References/Hatch+2017.md",
-    "References/Hatch+2019.md",
-    "References/Hatch+2021.md",
-    "References/Hatch+2022.md",
-    "References/Landreman+Ernst2012.md",
-    "References/McMillan+2010.md",
-    "References/Parisi+2020.md",
-    "References/Snyder+2011.md",
     "ToBePlacedOnZotero/ElectronTemperatureGradientDrivenTurbulence.pdf",
     "References",
     "Library/GENEandGyrokinetics/FrankJenkoGyrokineticIntroduction.pdf",
     "Library/Instabilities/Frassinetti_2021_Nucl._Fusion_61_016001.pdf",
     "Library/TurbulanceSurrogate/Zanisi_physInfALforGyrokinetics.pdf",
     "Library/UncertiantyQuantification/IonutFarcas/Ionut_UQ_2022.pdf",
-    "Library/TurbulanceSurrogate/CitrinGENEnnSurrogate.pdf",
-    "Other Meetings",
-    "Library/To be organised/KarniadakisPINNreviewPaper.pdf"
+    "Library/TurbulanceSurrogate/CitrinGENEnnSurrogate.pdf"
   ]
 }

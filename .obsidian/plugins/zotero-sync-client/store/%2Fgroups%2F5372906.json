@@ -5888,6 +5888,26 @@
       "relations": {},
       "dateAdded": "2024-01-29T13:51:43Z",
       "dateModified": "2024-01-29T13:51:43Z"
+    },
+    {
+      "key": "2EZIDH5M",
+      "version": 238,
+      "parentItem": "YQ684PFR",
+      "itemType": "attachment",
+      "linkMode": "imported_url",
+      "title": "Raissi_Karniadakis_2017_Hidden Physics Models.pdf",
+      "accessDate": "2024-02-05T14:11:34Z",
+      "url": "https://arxiv.org/pdf/1708.00588.pdf",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Raissi_Karniadakis_2017_Hidden Physics Models.pdf",
+      "md5": "d18a24b834cf61c9b7079a76e7bea698",
+      "mtime": 1707142294000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2024-02-05T14:11:34Z",
+      "dateModified": "2024-02-05T14:11:34Z"
     }
   ],
   "collections": [
@@ -5998,5 +6018,5 @@
     }
   ],
   "name": "Daniel_Jordan",
-  "version": 236
+  "version": 239
 }

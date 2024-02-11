@@ -1,4 +1,4 @@
-# List of Issues and Solutions
+# First Attempt
 
 make doc 
 diff: /users/danieljordan/gene/bin/lumi_csc.mk: No such file or directory
@@ -43,6 +43,31 @@ module purge
 cd gene
 gmake get_required_modules
 gmake -j
+
+
+
+# Seccond Attempt
+I discovered gmake get_required_modules only prints a command to execute, it does not execute it
+I don't need to make a new machine configuration file as there is already one for lumi
+
+fresh clone
+request access to gene gitlab: https://genecode.org/
+mkdir gene
+git clone --recurse-submodules https://g-danieljordan@gitlab.mpcdf.mpg.de/GENE/gene.git -b release-3.0 $PWD/gene
+make mach_wrapper
+echo $MACHINE
+print should be lumi_csc, for me it wasn't
+if not then run: 
+export MACHINE=lumi_csc
+gmake get_required_modules
+paste the print out and run to get the required modules
+gmake -j
+check this file is created
+cd .../bin/gene_$MACHINE
+
+testing
+cd testsuite
+gmake -f ../makefile
 # compiling Gene on work laptop
 
 docs created fine

@@ -1,4 +1,6 @@
 https://www.helsinki.fi/en/admissions-and-education/apply-doctoral-programmes/application-form
+
+# Personal Details
 ## Start by providing your personal details and educational history. Remember, once you save the application, personal information cannot be edited.
 
 ## Tell us about the degree that qualifies you for doctoral studies (e.g., master's degree, licentiate of medicine).
@@ -20,7 +22,7 @@ my language skills are proven by my education history
 
 ## Preliminary title of the doctoral thesis
 
-Physics informed neural network surrogate model for gyrokinetic plasma turbulence simulation of tokamak pedestool dynamics
+Physics informed machine learning models for acceleration of gyrokinetic turbulence simulation of tokamak edge
 
 ## field of research
 1043 Fluid and Plasma Physics

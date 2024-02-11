@@ -2836,15 +2836,6 @@
       "relations": {}
     },
     {
-      "key": "9KSFFXBJ",
-      "version": 122,
-      "name": "UncertaintyQuantification",
-      "parentCollection": "M5EX42DZ",
-      "relations": {
-        "owl:sameAs": "http://zotero.org/groups/5372906/collections/Y2ASDHEY"
-      }
-    },
-    {
       "key": "4GVSEKI6",
       "version": 112,
       "name": "YannCamanen_suggestions",
@@ -2852,8 +2843,17 @@
       "relations": {
         "owl:sameAs": "http://zotero.org/groups/5372906/collections/YMMD4QHW"
       }
+    },
+    {
+      "key": "9KSFFXBJ",
+      "version": 142,
+      "name": "UncertaintyQuantification",
+      "parentCollection": false,
+      "relations": {
+        "owl:sameAs": "http://zotero.org/groups/5372906/collections/Y2ASDHEY"
+      }
     }
   ],
   "name": "GENE_AI",
-  "version": 141
+  "version": 142
 }
