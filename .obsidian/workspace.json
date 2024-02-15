@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PhD Application/Application Forum.md",
+                "file": "Compiling Gene On LUMI.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ToyProblem/First Meeting with David.md",
+                "file": "ToyProblem DEEPlasma/First Meeting with David.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,24 +49,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compiling Gene On LUMI.md",
+                "file": "other similar projects.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "af99f296f878bf48",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "PhD Application/AmandaProposal.pdf"
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,43 +183,43 @@
       "zotero-sync-client:Sync with Zotero": false
     }
   },
-  "active": "a1d84d4cc9522548",
+  "active": "1d5364ef12110f9f",
   "lastOpenFiles": [
-    "ToyProblem/First Meeting with David.md",
-    "Liquid Gold.md",
+    "TSVV1_ACH_Meetings/2024-02-14 - first runs.md",
+    "Aaro Mystery/Aaro.md",
+    "Aaro Mystery",
     "Untitled.md",
-    "ToyProblem",
+    "DailyAchievments/2024-02-14.md",
+    "TSVV1_ACH_Meetings",
+    "DailyAchievments/2024-02-13.md",
+    "DailyAchievments/2024-02-12.md",
+    "Future Group meeting Points to Discuss.md",
+    "Compiling Gene On LUMI.md",
+    "References/Redl+2021.md",
+    "PhD Application/Application Forum.md",
+    "other similar projects.md",
+    "PhD Application/AmandaProposal.pdf",
+    "DailyAchievments/Jan/2024-01-31.md",
+    "DailyAchievments/2024-02-06>09.md",
+    "DailyAchievments/2024-02-05.md",
     "DailyAchievments/2024-02-02.md",
     "DailyAchievments/2024-02-01.md",
-    "DailyAchievments/Jan/2024-01-02.md",
-    "DailyAchievments/Jan",
-    "DailyAchievments/Jan/2024-01-31.md",
-    "PhD Application/Application Forum draft 2.md",
-    "PhD Application/Application Forum.md",
-    "PhD Application/Application Forum Draft 1.md",
-    "PhD Application/Application Forum 1.md",
-    "DailyAchievments/Jan/2024-01-29.md",
     "DailyAchievments/Jan/2024-01-30.md",
-    "PhD Application/AmandaProposal.pdf",
+    "DailyAchievments/Jan/2024-01-29.md",
+    "DailyAchievments/Jan/2024-01-25.md",
+    "DailyAchievments/Jan/2024-01-24.md",
+    "DailyAchievments/Jan/2024-01-23.md",
+    "DailyAchievments/Jan/2024-01-22.md",
+    "DailyAchievments/Jan/2024-01-18.md",
+    "Crazy Ideas.md",
+    "Liquid Gold.md",
     "Library Map.md",
-    "PhD Application/Study Plan.md",
-    "PhD Application/Research Proposal.md",
-    "References/De+2017.md",
-    "References/Sarkka+2019.md",
-    "References/Tronarp+2019.md",
-    "References/Solin+Särkkä2020.md",
-    "References/Graepel.md",
-    "References/Rasmussen+Williams2006.md",
-    "References/Patel+NaN.md",
-    "References/Karniadakis+2021.md",
-    "References/Frassinetti+2021.md",
-    "References/Curie+2022.md",
+    "ToyProblem DEEPlasma",
+    "DailyAchievments/Jan",
     "ToBePlacedOnZotero/ElectronTemperatureGradientDrivenTurbulence.pdf",
     "References",
     "Library/GENEandGyrokinetics/FrankJenkoGyrokineticIntroduction.pdf",
     "Library/Instabilities/Frassinetti_2021_Nucl._Fusion_61_016001.pdf",
-    "Library/TurbulanceSurrogate/Zanisi_physInfALforGyrokinetics.pdf",
-    "Library/UncertiantyQuantification/IonutFarcas/Ionut_UQ_2022.pdf",
-    "Library/TurbulanceSurrogate/CitrinGENEnnSurrogate.pdf"
+    "Library/TurbulanceSurrogate/Zanisi_physInfALforGyrokinetics.pdf"
   ]
 }

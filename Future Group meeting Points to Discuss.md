@@ -1,4 +1,5 @@
-Other similar projects: is seems there are a lot of similar projects that have been or will be completed.
+# Other similar projects:
+is seems there are a lot of similar projects that have been or will be completed.
 None focusing on pedestool
 I need to focus on quasilinear, no time, get grothrates for initial state and use something to try and get non linear results. 
 Gyrokinetics approximation might break down for pedestool
