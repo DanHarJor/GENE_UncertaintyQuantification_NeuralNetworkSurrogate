@@ -148,9 +148,6 @@ Physics of Data
 I am close to completing a second masters in Physics of Data from the University of Padua. This involved many projects related to machine learning. One of these involved working with a supervisor to contribute to their research. My group worked with Michella Mapelli and was using decision trees to identify the properties of binary black holes that contribute the most to their lifetime.
 
 For my second masters thesis I conducted research with Ghent university under Geert Verdoolaege for 3 months and completed a project that explored using Bayesian inference with a Gaussian process prior to infer the electron density profile of a tokamak plasma with interferometry data
-
-
-
 liverpool, padua
 
 ## Possible publications and conference presentations (1500 characters)
@@ -169,10 +166,8 @@ I traveled in France as a volunteer. I worked with various permaculture groups, 
 After 1 year of travelling in France, I went home to my family in Northern Ireland. I began writing my novel entitled Entropy. A thrilling adventure of galactic proportions, where our conception of life is stretched, and a story is told of a young alien girl's discovery of friendship and the universe. After fifty thousand words, I had completed the first draft for book 1 of the story.
 
 After I was contempt with the progress of my novel I focused on a variety of projects. I began tutoring mathematics and physics. I followed my curiosity within books and videos, mostly on machine learning and plasma physics. I experimented with Arduino's and programming them with C++. Which led me to develop a prototype dispensing system for addictive medications. I began a business partnership with my sister. We sell personalised household items. My role is to have an in-depth understanding of the machinery and processes for troubleshooting and product development.
-# Preliminary Study Plan
 
 ## Discipline-specific studies (30 ECTS) (1500 characters)
-
 
 ## Transferable skills (10 ECTS) (1500 characters)
 

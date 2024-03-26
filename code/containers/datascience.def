@@ -1,0 +1,10 @@
+bootstrap: docker
+from: continuumio/anaconda3:2020.11
+
+%post
+	conda env create -f pytorch_ds.yml
+ 
+
+%runscript
+%    /usr/local/libexec/osu-micro-benchmarks/mpi/pt2pt/osu_bw
+

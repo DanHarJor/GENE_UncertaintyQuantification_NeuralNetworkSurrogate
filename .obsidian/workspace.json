@@ -8,7 +8,41 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1d5364ef12110f9f",
+            "id": "eeb83a8b8efdc820",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "UNIPDFusionClassSlides.pdf"
+              }
+            }
+          },
+          {
+            "id": "062b0a2b98b0473f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Good Ideas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "554a4c05efe4f2cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DailyAchievments/2024-03-20.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "576681f0bd2f1cfa",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,42 +54,53 @@
             }
           },
           {
-            "id": "6cf3297b464746a6",
+            "id": "2ca83eefc6b85739",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Library Map.md",
+                "file": "DailyAchievments/2024-03-20.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "57f850d61e4b1f81",
+            "id": "038290d12f035aaa",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "MJ Course Turbulance and Transport/ttfp_8.pdf"
+              }
+            }
+          },
+          {
+            "id": "95dde75b00113891",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ToyProblem DEEPlasma/First Meeting with David.md",
+                "file": "MJ Course Turbulance and Transport/Summary Notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a1d84d4cc9522548",
+            "id": "3e70beb0580bd87c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "other similar projects.md",
+                "file": "Exchange Trip/Overview.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -121,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Compiling Gene On LUMI.md",
+                "file": "Exchange Trip/Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Compiling Gene On LUMI.md",
+                "file": "Exchange Trip/Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Compiling Gene On LUMI.md"
+                "file": "Exchange Trip/Overview.md"
               }
             }
           }
@@ -183,43 +228,43 @@
       "zotero-sync-client:Sync with Zotero": false
     }
   },
-  "active": "1d5364ef12110f9f",
+  "active": "3e70beb0580bd87c",
   "lastOpenFiles": [
-    "TSVV1_ACH_Meetings/2024-02-14 - first runs.md",
-    "Aaro Mystery/Aaro.md",
-    "Aaro Mystery",
-    "Untitled.md",
-    "DailyAchievments/2024-02-14.md",
-    "TSVV1_ACH_Meetings",
-    "DailyAchievments/2024-02-13.md",
-    "DailyAchievments/2024-02-12.md",
-    "Future Group meeting Points to Discuss.md",
+    "Other Meetings/2024-01-23 - Joe and Leonardo.md",
+    "Exchange Trip/Overview.md",
+    "Exchange Trip.md",
+    "Exchange Trip",
+    "2024-03-25.md",
+    "2024-03-22.md",
+    "DailyAchievments/2024-03-21.md",
+    "TSVV1_ACH_Meetings/Questions.md",
+    "lu171153r1i9.tmp",
+    "lu171153r1h7.tmp",
+    "TSVV1_ACH_Meetings/2024-03-21 Questions.md",
+    "TSVV1_ACH_Meetings/2024-03-21 after first gene scan.mp4",
+    "TSVV1_ACH_Meetings/2024-03-21 after first gene scan.md",
+    "MJ Course Turbulance and Transport/ttfp_4.pdf",
+    "References/Staebler+Kinsey2010.md",
+    "References/Staebler+2007.md",
+    "References/Meneghini+2021.md",
+    "MJ Course Turbulance and Transport/ttfp_8.pdf",
+    "MJ Course Turbulance and Transport/Summary Notes.md",
+    "MJ Course Turbulance and Transport/ttfp_3.pdf",
+    "MJ Course Turbulance and Transport/ttfp_2.pdf",
+    "MJ Course Turbulance and Transport/ttfp_1.pdf",
+    "MJ Course Turbulance and Transport/ttfp_7.pdf",
+    "DEEPlasma Meetings/Questions.md",
+    "DailyAchievments/2024-03-20.md",
+    "DailyAchievments/2024-03-19.md",
     "Compiling Gene On LUMI.md",
-    "References/Redl+2021.md",
-    "PhD Application/Application Forum.md",
-    "other similar projects.md",
-    "PhD Application/AmandaProposal.pdf",
-    "DailyAchievments/Jan/2024-01-31.md",
-    "DailyAchievments/2024-02-06>09.md",
-    "DailyAchievments/2024-02-05.md",
-    "DailyAchievments/2024-02-02.md",
-    "DailyAchievments/2024-02-01.md",
-    "DailyAchievments/Jan/2024-01-30.md",
-    "DailyAchievments/Jan/2024-01-29.md",
-    "DailyAchievments/Jan/2024-01-25.md",
-    "DailyAchievments/Jan/2024-01-24.md",
-    "DailyAchievments/Jan/2024-01-23.md",
-    "DailyAchievments/Jan/2024-01-22.md",
-    "DailyAchievments/Jan/2024-01-18.md",
-    "Crazy Ideas.md",
+    "code/containers/readme.md",
+    "References/ScottNaN.md",
+    "DailyAchievments/2024-03-18.md",
+    "DailyAchievments/2024-03-10--2024-03-16.md",
+    "PhD Application/Research Proposal.md",
     "Liquid Gold.md",
-    "Library Map.md",
-    "ToyProblem DEEPlasma",
-    "DailyAchievments/Jan",
-    "ToBePlacedOnZotero/ElectronTemperatureGradientDrivenTurbulence.pdf",
-    "References",
-    "Library/GENEandGyrokinetics/FrankJenkoGyrokineticIntroduction.pdf",
-    "Library/Instabilities/Frassinetti_2021_Nucl._Fusion_61_016001.pdf",
-    "Library/TurbulanceSurrogate/Zanisi_physInfALforGyrokinetics.pdf"
+    "DailyAchievments/2Feb/2024-02-01.md",
+    "DailyAchievments/2Feb/2024-02-26--2024-03-08 MJ turbulance course.md",
+    "DailyAchievments/2024-02-27 day 2 MJ turbulance course.md"
   ]
 }

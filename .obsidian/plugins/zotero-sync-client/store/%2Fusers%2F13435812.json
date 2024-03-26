@@ -59,39 +59,40 @@
       "dateModified": "2024-01-19T09:56:19Z"
     },
     {
-      "key": "7HP8THII",
-      "version": 4,
-      "itemType": "journalArticle",
-      "title": "",
-      "creators": [],
+      "key": "N3PXTWSM",
+      "version": 262,
+      "itemType": "book",
+      "title": "Tokamaks",
+      "creators": [
+        {"creatorType": "author", "firstName": "John", "lastName": "Wesson"},
+        {"creatorType": "author", "firstName": "D. J.", "lastName": "Campbell"}
+      ],
       "abstractNote": "",
-      "publicationTitle": "",
+      "series": "Oxford science publications",
+      "seriesNumber": "118",
       "volume": "",
-      "issue": "",
-      "pages": "",
-      "date": "",
-      "series": "",
-      "seriesTitle": "",
-      "seriesText": "",
-      "journalAbbreviation": "",
+      "numberOfVolumes": "",
+      "edition": "3rd ed",
+      "place": "Oxford : New York",
+      "publisher": "Clarendon Press ; Oxford University Press",
+      "date": "2004",
+      "numPages": "749",
       "language": "",
-      "DOI": "",
-      "ISSN": "",
+      "ISBN": "978-0-19-850922-6",
       "shortTitle": "",
       "url": "",
       "accessDate": "",
       "archive": "",
       "archiveLocation": "",
-      "libraryCatalog": "",
-      "callNumber": "",
+      "libraryCatalog": "Library of Congress ISBN",
+      "callNumber": "QC718.5.C65 W47 2004",
       "rights": "",
       "extra": "",
-      "deleted": 1,
-      "tags": [],
-      "collections": ["VNTNAES7"],
+      "tags": [{"tag": "Tokamaks", "type": 1}],
+      "collections": ["ZU2P3CRE"],
       "relations": {},
-      "dateAdded": "2024-01-19T09:55:09Z",
-      "dateModified": "2024-01-19T09:55:09Z"
+      "dateAdded": "2024-03-15T07:50:42Z",
+      "dateModified": "2024-03-15T07:50:42Z"
     }
   ],
   "collections": [
@@ -110,5 +111,5 @@
       "relations": {}
     }
   ],
-  "version": 69
+  "version": 323
 }

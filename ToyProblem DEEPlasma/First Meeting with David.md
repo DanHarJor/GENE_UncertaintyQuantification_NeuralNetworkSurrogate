@@ -14,8 +14,14 @@ The surrogate we want should obviously predict heat flux
 $$
 Q = n \Delta T \chi
 $$
-$\chi$ is diffusivity $\propto \frac{L²}{T}$  , $T$ is grothrate of the instability, $L$ is inverse timescale   
+$$\chi \propto \frac{L²}{T_g}$$
 
-$\chi = \frac{\gamma c}{<k_{\perp}>²}$ , $k_{\perp}$ comes from the eigan mode solver, c is a fudge factor that we can tune to match the non linear data or experimental results.
+$$\chi = \frac{\gamma c}{<k_{\perp}>²}$$
+$\gamma$ is the growth-rate of the instability, $<k_{\perp}>$
+is the average micro instability wave vector perpendicular to the magnetic field, c is the saturation rule; it is a fudge factor that is tuned to match non linear simulations or experiment.
+
+$\chi$ is diffusivity, $T_g$ is growth rate of the instability, $L$ is inverse timescale, c is a fudge factor that we can tune to match the non linear data or experimental results and $k_{\perp}$ is the Eigenmode-averaged perpendicular wave number and is computed by the GENE Eigen mode solver
+
+$\chi = \frac{\gamma c}{<k_{\perp}>²}$ , , 
 
 

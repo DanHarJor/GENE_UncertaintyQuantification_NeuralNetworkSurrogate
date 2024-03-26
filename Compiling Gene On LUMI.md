@@ -257,6 +257,45 @@ run this
 then check the .out and .err files for the outputs and errors.
 Then check the results folder for the output files. Check you have everything the docs mentions. 
 
+# Diagnostics
+On LUMI you must run python on a singularity container to avoid having many small files on the system and slowing it down.
+
+The easiest way to do it is to use your local machine to make an anaconda yml file with the python enviroment you want to use.
+
+## creating an enviroment .yml with all packages you want
+use this command and place each repo after a -c and each package seperated by a space. pytorch_ds will be the name of the enviroment. 
+`conda create -n pytorch_ds -c conda-forge -c pytorch -c anaconda GPy optuna ipykernel scipy matplotlib seaborn emcee pymc pandas numpy scikit-learn pytorch``
+`
+Then export the enviroment to a .yml file
+conda activate pytorch_ds
+conda env export > pytorch_ds.yml
+https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#sharing-an-environment
+
+## scp to lumi
+set up ssh key: https://docs.lumi-supercomputer.eu/firststeps/SSH-keys/
+
+scp -i ~/.ssh/myprivatekey ~/dir/to/pytorch_ds.yml lumiusername@lumi.csc.fi:~/destination/path
+
+## creating singularity image with python enviroment ready to go
+`module load LUMI`
+`module load cotainr`
+`cotainr build my_container.sif --system=lumi-g --conda-env=my_conda_env.yml``
+`
+## running a python file inside the container 
+`srun --partition=<partition> --account=<account> singularity exec my_container.sif python3 my_script.py``
+
+--partition=small is recommended unless you are sure you can use a whole node as it will let others share the node.
+--account=project_project_number, find it on my csc
+
+I am not sure how to define the resources I want it to have. If I want to run a python script on multiple nodes for example. I would have to read lumi docs on paralell processing. 
+## clone gene-diag
+
+## run pydiagc in container
+I had an issue with import pydiag. It couldn't find the module. So I copied pydiagc.py into gene-diag and ran it from there. This solved the issue.
+`cp gene-diag/pydiag/pydiagc.py gene-diag/pydiagc.py`
+
+`srun --partition=small --account=project_462000451 singularity exec ~/ds.sif python3 gene-diag/pydiagc.py -h`
+# now for testing on default gene run
 
 
 # compiling Gene on work laptop

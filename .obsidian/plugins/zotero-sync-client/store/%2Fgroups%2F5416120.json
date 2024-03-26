@@ -1,0 +1,257 @@
+{
+  "items": [
+    {
+      "key": "Z7F4LQAY",
+      "version": 9,
+      "parentItem": "XPAPATKC",
+      "itemType": "attachment",
+      "linkMode": "imported_url",
+      "title": "Papamakarios et al_2017_Masked Autoregressive Flow for Density Estimation.pdf",
+      "accessDate": "2024-02-23T15:06:44Z",
+      "url": "https://arxiv.org/pdf/1705.07057.pdf",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Papamakarios et al_2017_Masked Autoregressive Flow for Density Estimation.pdf",
+      "md5": "3979dbb1ec13be7e184bf842e6e9326f",
+      "mtime": 1708700804000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2024-02-23T15:06:44Z",
+      "dateModified": "2024-02-23T15:06:45Z"
+    },
+    {
+      "key": "XPAPATKC",
+      "version": 6,
+      "itemType": "journalArticle",
+      "title": "Masked Autoregressive Flow for Density Estimation",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "George",
+          "lastName": "Papamakarios"
+        },
+        {"creatorType": "author", "firstName": "Theo", "lastName": "Pavlakou"},
+        {"creatorType": "author", "firstName": "Iain", "lastName": "Murray"}
+      ],
+      "abstractNote": "Autoregressive models are among the best performing neural density estimators. We describe an approach for increasing the flexibility of an autoregressive model, based on modelling the random numbers that the model uses internally when generating data. By constructing a stack of autoregressive models, each modelling the random numbers of the next model in the stack, we obtain a type of normalizing flow suitable for density estimation, which we call Masked Autoregressive Flow. This type of flow is closely related to Inverse Autoregressive Flow and is a generalization of Real NVP. Masked Autoregressive Flow achieves state-of-the-art performance in a range of general-purpose density estimation tasks.",
+      "publicationTitle": "",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "date": "2017",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "",
+      "DOI": "10.48550/ARXIV.1705.07057",
+      "ISSN": "",
+      "shortTitle": "",
+      "url": "https://arxiv.org/abs/1705.07057",
+      "accessDate": "2024-02-23T15:05:24Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Datacite)",
+      "callNumber": "",
+      "rights": "arXiv.org perpetual, non-exclusive license",
+      "extra": "",
+      "tags": [
+        {"tag": "FOS: Computer and information sciences", "type": 1},
+        {"tag": "Machine Learning (cs.LG)", "type": 1},
+        {"tag": "Machine Learning (stat.ML)", "type": 1}
+      ],
+      "collections": ["FQRU2IDM"],
+      "relations": {},
+      "dateAdded": "2024-02-23T15:05:24Z",
+      "dateModified": "2024-02-23T15:05:24Z"
+    },
+    {
+      "key": "EPDTVPQ6",
+      "version": 4,
+      "itemType": "videoRecording",
+      "title": "MADE: Masked Autoencoder for Distribution Estimation",
+      "creators": [],
+      "abstractNote": "This is an in-depth explanation of a technique for doing density estimation with the help of masked autoencoders.Why should you master it?Masked Autoencoder ...",
+      "videoRecordingFormat": "",
+      "seriesTitle": "",
+      "volume": "",
+      "numberOfVolumes": "",
+      "place": "",
+      "studio": "",
+      "date": "",
+      "runningTime": "",
+      "language": "en-GB",
+      "ISBN": "",
+      "shortTitle": "MADE",
+      "url": "https://www.youtube.com/watch?v=7q4ueFiJjAY",
+      "accessDate": "2024-02-23T14:15:12Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "www.youtube.com",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": ["FQRU2IDM"],
+      "relations": {},
+      "dateAdded": "2024-02-23T14:15:12Z",
+      "dateModified": "2024-02-23T14:15:12Z"
+    },
+    {
+      "key": "KA2G4XR4",
+      "version": 7,
+      "itemType": "preprint",
+      "title": "Masked Autoregressive Flow for Density Estimation",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "George",
+          "lastName": "Papamakarios"
+        },
+        {"creatorType": "author", "firstName": "Theo", "lastName": "Pavlakou"},
+        {"creatorType": "author", "firstName": "Iain", "lastName": "Murray"}
+      ],
+      "abstractNote": "Autoregressive models are among the best performing neural density estimators. We describe an approach for increasing the flexibility of an autoregressive model, based on modelling the random numbers that the model uses internally when generating data. By constructing a stack of autoregressive models, each modelling the random numbers of the next model in the stack, we obtain a type of normalizing flow suitable for density estimation, which we call Masked Autoregressive Flow. This type of flow is closely related to Inverse Autoregressive Flow and is a generalization of Real NVP. Masked Autoregressive Flow achieves state-of-the-art performance in a range of general-purpose density estimation tasks.",
+      "genre": "",
+      "repository": "arXiv",
+      "archiveID": "arXiv:1705.07057",
+      "place": "",
+      "date": "2018-06-14",
+      "series": "",
+      "seriesNumber": "",
+      "DOI": "10.48550/arXiv.1705.07057",
+      "citationKey": "",
+      "url": "http://arxiv.org/abs/1705.07057",
+      "accessDate": "2024-02-23T13:38:59Z",
+      "archive": "",
+      "archiveLocation": "",
+      "shortTitle": "",
+      "language": "",
+      "libraryCatalog": "arXiv.org",
+      "callNumber": "",
+      "rights": "",
+      "extra": "arXiv:1705.07057 [cs, stat]",
+      "deleted": 1,
+      "tags": [
+        {"tag": "Computer Science - Machine Learning", "type": 1},
+        {"tag": "Statistics - Machine Learning", "type": 1}
+      ],
+      "collections": ["FQRU2IDM"],
+      "relations": {},
+      "dateAdded": "2024-02-23T13:52:08Z",
+      "dateModified": "2024-02-23T13:52:08Z"
+    },
+    {
+      "key": "PRTIIZHC",
+      "version": 3,
+      "itemType": "journalArticle",
+      "title": "Testing the robustness of simulation-based gravitational-wave population inference",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Damon H. T.",
+          "lastName": "Cheung"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Kaze W. K.",
+          "lastName": "Wong"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Otto A.",
+          "lastName": "Hannuksela"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Tjonnie G. F.",
+          "lastName": "Li"
+        },
+        {"creatorType": "author", "firstName": "Shirley", "lastName": "Ho"}
+      ],
+      "abstractNote": "Gravitational-wave population studies have become more important in gravitational-wave astronomy because of the rapid growth of the observed catalog. In recent studies, emulators based on different machine learning techniques are used to emulate the outcomes of the population synthesis simulation with fast speed. In this study, we benchmark the performance of two emulators that learn the truncated power-law phenomenological model by using Gaussian process regression and normalizing flows techniques to see which one is a more capable likelihood emulator in the population inference. We benchmark the characteristic of the emulators by comparing their performance in the population inference to the phenomenological model using mock and real observation data. Our results suggest that the normalizing flows emulator can recover the posterior distribution by using the phenomenological model in the population inference with up to 300 mock injections. The normalizing flows emulator also underestimates the uncertainty for some posterior distributions in the population inference on real observation data. On the other hand, the Gaussian process regression emulator has poor performance on the same task and can only be used effectively in low-dimension cases.",
+      "publicationTitle": "Physical Review D",
+      "volume": "106",
+      "issue": "8",
+      "pages": "083014",
+      "date": "2022-10-19",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Phys. Rev. D",
+      "language": "",
+      "DOI": "10.1103/PhysRevD.106.083014",
+      "ISSN": "2470-0010, 2470-0029",
+      "shortTitle": "",
+      "url": "http://arxiv.org/abs/2112.06707",
+      "accessDate": "2024-02-23T13:35:31Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "arXiv.org",
+      "callNumber": "",
+      "rights": "",
+      "extra": "arXiv:2112.06707 [astro-ph, physics:gr-qc]",
+      "tags": [
+        {
+          "tag": "Astrophysics - High Energy Astrophysical Phenomena",
+          "type": 1
+        },
+        {
+          "tag": "Astrophysics - Instrumentation and Methods for Astrophysics",
+          "type": 1
+        },
+        {"tag": "General Relativity and Quantum Cosmology", "type": 1}
+      ],
+      "collections": ["FQRU2IDM"],
+      "relations": {},
+      "dateAdded": "2024-02-23T13:52:08Z",
+      "dateModified": "2024-02-23T13:52:08Z"
+    },
+    {
+      "key": "XW3J3US9",
+      "version": 13,
+      "parentItem": "PRTIIZHC",
+      "itemType": "attachment",
+      "linkMode": "imported_url",
+      "title": "Cheung et al_2022_Testing the robustness of simulation-based gravitational-wave population.pdf",
+      "accessDate": "2024-03-15T07:51:21Z",
+      "url": "https://arxiv.org/pdf/2112.06707.pdf",
+      "note": "<p xmlns=\"http://www.w3.org/1999/xhtml\" id=\"title\"><strong>Contents</strong></p><ul xmlns=\"http://www.w3.org/1999/xhtml\" style=\"list-style-type: none; padding-left:0px\" id=\"toc\"><li><a href=\"zotero://open-pdf/4_XW3J3US9/1\">Abstract</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/4_XW3J3US9/1\">I Introduction</a></li><li style=\"padding-top:8px\"><a href=\"zotero://open-pdf/4_XW3J3US9/2\">II Method</a><ul style=\"list-style-type: none; padding-left:12px\"><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/4_XW3J3US9/2\">A Hierarchical Bayesian analysis</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/4_XW3J3US9/3\">B Computation of selection bias</a></li></ul></li><li style=\"padding-top:8px\"><a href=\"zotero://open-pdf/4_XW3J3US9/3\">III Emulator</a><ul style=\"list-style-type: none; padding-left:12px\"><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/4_XW3J3US9/4\">A Training data</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/4_XW3J3US9/4\">B Gaussian process regression emulator</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/4_XW3J3US9/5\">C Normalizing flows emulator</a></li></ul></li><li style=\"padding-top:8px\"><a href=\"zotero://open-pdf/4_XW3J3US9/6\">IV Result</a><ul style=\"list-style-type: none; padding-left:12px\"><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/4_XW3J3US9/6\">A Comparison on event distribution</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/4_XW3J3US9/6\">B Inference on mock data</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/4_XW3J3US9/7\">C Data from GWTC-2</a></li></ul></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/4_XW3J3US9/7\">V Discussion</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/4_XW3J3US9/10\">VI ACKNOWLEDGMENTS</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/4_XW3J3US9/10\">A Mock Data Catalog</a></li><li style=\"padding-top:4px\"><a href=\"zotero://open-pdf/4_XW3J3US9/11\"> References</a></li></ul>",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Cheung et al_2022_Testing the robustness of simulation-based gravitational-wave population.pdf",
+      "md5": "471ca35db4fd2b816993de86d7e78398",
+      "mtime": 1710489082000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2024-03-15T07:51:21Z",
+      "dateModified": "2024-03-15T07:51:22Z"
+    }
+  ],
+  "collections": [
+    {
+      "key": "UMGI8MKQ",
+      "version": 5,
+      "name": "Eco",
+      "parentCollection": false,
+      "relations": {}
+    },
+    {
+      "key": "FQRU2IDM",
+      "version": 2,
+      "name": "Norm Flows",
+      "parentCollection": false,
+      "relations": {}
+    },
+    {
+      "key": "RTAXBXCR",
+      "version": 11,
+      "name": "PhD Reading",
+      "parentCollection": false,
+      "relations": {}
+    }
+  ],
+  "name": "pomegranate_sauce",
+  "version": 14
+}
