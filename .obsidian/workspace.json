@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-03-22.md",
+                "file": "Code Docs/Singularity.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-03-22.md",
+                "file": "Code Docs/Singularity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-03-22.md",
+                "file": "Code Docs/Singularity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-03-22.md"
+                "file": "Code Docs/Singularity.md"
               }
             }
           }
@@ -185,8 +185,16 @@
   },
   "active": "1d5364ef12110f9f",
   "lastOpenFiles": [
+    "code/ds.def~",
+    "code/ds_inst.sif",
+    "code/ds_orig.sif",
+    "code/ds.def",
+    "Code Docs/Compiling Gene On LUMI.md",
+    "Code Docs/Singularity.md",
+    "Team Meetings - Adam, Amanda, Aaro/Questions.md",
+    "Code Docs",
     "2024-03-25.md",
-    "Compiling Gene On LUMI.md",
+    "2024-03-22.md",
     "geneUQintro.odp",
     "code/containers/wget-log",
     "code/containers/singularity-ce_3.9.7-bionic_amd64.deb",
@@ -194,15 +202,11 @@
     "code/containers/pytorch_ds_create.sh",
     "code/containers/pytorch_ds.yml",
     "code/containers/datascience.def",
-    "code/containers",
-    "code",
     "VTT travel.md",
     "Untitled.md",
-    "UNIPDFusionClassSlides.pdf",
     "UKAEA.md",
     "Travel Meeting Notes.md",
     "ToyProblem DEEPlasma/Overview.md",
-    "TheoryCommunication_IntroToFusionScience.pdf",
     "Team Meetings - Adam, Amanda, Aaro/2024-03-06.md",
     "Team Meetings - Adam, Amanda, Aaro/2024-02-21.md",
     "TSVV1_ACH_Meetings/Questions.md",
@@ -216,10 +220,6 @@
     "Good Ideas.md",
     "Frassinetti_2021_Nucl._Fusion_61_016001.pdf.md",
     "Exchange Trip/Overview.md",
-    "Day 1 Intro to Plasma Physics.md",
-    "DEEPlasma Meetings/Questions.md",
-    "2024-03-22.md",
-    "References/Staebler+Kinsey2010.md",
-    "References/Staebler+2007.md"
+    "Day 1 Intro to Plasma Physics.md"
   ]
 }

@@ -1,0 +1,9 @@
+Bootstrap: localimage
+From: ds_orig.sif
+
+%post
+	apt-get update -y
+	apt-get install curl -y
+	apt-get install wget -y
+
+
