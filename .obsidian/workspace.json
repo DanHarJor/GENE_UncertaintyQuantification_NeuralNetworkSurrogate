@@ -8,99 +8,54 @@
         "type": "tabs",
         "children": [
           {
-            "id": "eeb83a8b8efdc820",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "UNIPDFusionClassSlides.pdf"
-              }
-            }
-          },
-          {
-            "id": "062b0a2b98b0473f",
+            "id": "1d5364ef12110f9f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Good Ideas.md",
+                "file": "2024-03-22.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "554a4c05efe4f2cd",
+            "id": "6cf3297b464746a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyAchievments/2024-03-20.md",
+                "file": "Library Map.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "576681f0bd2f1cfa",
+            "id": "57f850d61e4b1f81",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compiling Gene On LUMI.md",
+                "file": "ToyProblem DEEPlasma/First Meeting with David.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2ca83eefc6b85739",
+            "id": "a1d84d4cc9522548",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyAchievments/2024-03-20.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "038290d12f035aaa",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "MJ Course Turbulance and Transport/ttfp_8.pdf"
-              }
-            }
-          },
-          {
-            "id": "95dde75b00113891",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MJ Course Turbulance and Transport/Summary Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3e70beb0580bd87c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Exchange Trip/Overview.md",
+                "file": "other similar projects.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exchange Trip/Overview.md",
+                "file": "2024-03-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exchange Trip/Overview.md",
+                "file": "2024-03-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exchange Trip/Overview.md"
+                "file": "2024-03-22.md"
               }
             }
           }
@@ -228,43 +183,43 @@
       "zotero-sync-client:Sync with Zotero": false
     }
   },
-  "active": "3e70beb0580bd87c",
+  "active": "1d5364ef12110f9f",
   "lastOpenFiles": [
-    "Other Meetings/2024-01-23 - Joe and Leonardo.md",
-    "Exchange Trip/Overview.md",
-    "Exchange Trip.md",
-    "Exchange Trip",
     "2024-03-25.md",
-    "2024-03-22.md",
-    "DailyAchievments/2024-03-21.md",
-    "TSVV1_ACH_Meetings/Questions.md",
-    "lu171153r1i9.tmp",
-    "lu171153r1h7.tmp",
-    "TSVV1_ACH_Meetings/2024-03-21 Questions.md",
-    "TSVV1_ACH_Meetings/2024-03-21 after first gene scan.mp4",
-    "TSVV1_ACH_Meetings/2024-03-21 after first gene scan.md",
-    "MJ Course Turbulance and Transport/ttfp_4.pdf",
-    "References/Staebler+Kinsey2010.md",
-    "References/Staebler+2007.md",
-    "References/Meneghini+2021.md",
-    "MJ Course Turbulance and Transport/ttfp_8.pdf",
-    "MJ Course Turbulance and Transport/Summary Notes.md",
-    "MJ Course Turbulance and Transport/ttfp_3.pdf",
-    "MJ Course Turbulance and Transport/ttfp_2.pdf",
-    "MJ Course Turbulance and Transport/ttfp_1.pdf",
-    "MJ Course Turbulance and Transport/ttfp_7.pdf",
-    "DEEPlasma Meetings/Questions.md",
-    "DailyAchievments/2024-03-20.md",
-    "DailyAchievments/2024-03-19.md",
     "Compiling Gene On LUMI.md",
+    "geneUQintro.odp",
+    "code/containers/wget-log",
+    "code/containers/singularity-ce_3.9.7-bionic_amd64.deb",
     "code/containers/readme.md",
-    "References/ScottNaN.md",
-    "DailyAchievments/2024-03-18.md",
-    "DailyAchievments/2024-03-10--2024-03-16.md",
-    "PhD Application/Research Proposal.md",
-    "Liquid Gold.md",
-    "DailyAchievments/2Feb/2024-02-01.md",
-    "DailyAchievments/2Feb/2024-02-26--2024-03-08 MJ turbulance course.md",
-    "DailyAchievments/2024-02-27 day 2 MJ turbulance course.md"
+    "code/containers/pytorch_ds_create.sh",
+    "code/containers/pytorch_ds.yml",
+    "code/containers/datascience.def",
+    "code/containers",
+    "code",
+    "VTT travel.md",
+    "Untitled.md",
+    "UNIPDFusionClassSlides.pdf",
+    "UKAEA.md",
+    "Travel Meeting Notes.md",
+    "ToyProblem DEEPlasma/Overview.md",
+    "TheoryCommunication_IntroToFusionScience.pdf",
+    "Team Meetings - Adam, Amanda, Aaro/2024-03-06.md",
+    "Team Meetings - Adam, Amanda, Aaro/2024-02-21.md",
+    "TSVV1_ACH_Meetings/Questions.md",
+    "TSVV1_ACH_Meetings/2024-03-21 after first gene scan.md",
+    "TSVV1_ACH_Meetings/2024-03-21 Questions.md",
+    "TSVV1_ACH_Meetings/2024-03-06 after mj's course.md",
+    "People.md",
+    "MJ Course Turbulance and Transport/Summary Notes.md",
+    "MJ Course Turbulance and Transport/Session 8.md",
+    "MGKDB meeting 1, inc Chat on PINNS.md",
+    "Good Ideas.md",
+    "Frassinetti_2021_Nucl._Fusion_61_016001.pdf.md",
+    "Exchange Trip/Overview.md",
+    "Day 1 Intro to Plasma Physics.md",
+    "DEEPlasma Meetings/Questions.md",
+    "2024-03-22.md",
+    "References/Staebler+Kinsey2010.md",
+    "References/Staebler+2007.md"
   ]
 }
