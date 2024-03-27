@@ -17,5 +17,6 @@ fig = plt.figure()
 plt.plot(np.arange(3), np.arange(3))
 sp = Path(config.diagdir,'growthrate_ky.png')
 fig.savefig(sp)
+plt.show()
 
 #need to impliment scp to my laptop
