@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "enchanted-surrogates/Questions.md",
+                "file": "enchanted-surrogates/My ideas, peeps didn't like.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "enchanted-surrogates/Questions.md",
+                "file": "enchanted-surrogates/My ideas, peeps didn't like.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "enchanted-surrogates/Questions.md",
+                "file": "enchanted-surrogates/My ideas, peeps didn't like.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "enchanted-surrogates/Questions.md"
+                "file": "enchanted-surrogates/My ideas, peeps didn't like.md"
               }
             }
           }
@@ -185,11 +185,13 @@
   },
   "active": "1d5364ef12110f9f",
   "lastOpenFiles": [
+    "code/uq_gene_conda.sh",
+    "enchanted-surrogates/Questions.md",
+    "enchanted-surrogates/My ideas, peeps didn't like.md",
     "code/visualisation.ipynb",
     "code/uq_gene.sh~",
     "code/uq_gene.yml",
     "2024-03-28.md",
-    "enchanted-surrogates/Questions.md",
     "enchanted-surrogates",
     "code/uq_gene.sh",
     "2024-03-27.md",
@@ -201,7 +203,6 @@
     "code/ds.def",
     "Code Docs/Compiling Gene On LUMI.md",
     "Team Meetings - Adam, Amanda, Aaro/Questions.md",
-    "Code Docs",
     "2024-03-25.md",
     "2024-03-22.md",
     "code/containers/readme.md",
@@ -219,7 +220,6 @@
     "People.md",
     "MJ Course Turbulance and Transport/Summary Notes.md",
     "MJ Course Turbulance and Transport/Session 8.md",
-    "MGKDB meeting 1, inc Chat on PINNS.md",
-    "Good Ideas.md"
+    "MGKDB meeting 1, inc Chat on PINNS.md"
   ]
 }
