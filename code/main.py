@@ -1,5 +1,6 @@
 import matplotlib.pyplot as plt
 import numpy as np
+import pandas as pd
 from pathlib import Path
 import yaml
 import argparse
@@ -10,13 +11,10 @@ def load_configuration(config_path):
         config = argparse.Namespace(**config)
     return config
 
-config_path = Path('/users/danieljordan/GENE_UncertaintyQuantification_NeuralNetworkSurrogate/code/config.yaml')
-config = load_configuration(config_path)
-
-fig = plt.figure()
-plt.plot(np.arange(3), np.arange(3))
-sp = Path(config.diagdir,'growthrate_ky.png')
-fig.savefig(sp)
-plt.show()
-
-#need to impliment scp to my laptop
+def parse_scan_log():
+    config_path = Path('/users/danieljordan/GENE_UncertaintyQuantification_NeuralNetworkSurrogate/code/config.yaml')
+    config = load_configuration(config_path)
+    scan_log_path = Path(config.diagdir, 'scan.log')
+    df = pd.read_csv(scan_log_path, sep='|',skiprows=None)
+    print('psl')
+    return df
