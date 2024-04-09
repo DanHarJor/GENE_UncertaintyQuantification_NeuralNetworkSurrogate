@@ -2,8 +2,8 @@ Bootstrap: localimage
 From: uq_gene.sif
 
 %post
-	apt-get update -y
-	apt-get install curl -y
-	apt-get install wget -y
+	#apt-get update -y
+	#apt-get install curl -y
+	#apt-get install wget -y
 
-
+	conda install conda-forge::f90nml

@@ -1,6 +1,9 @@
 Simmo Sarka and Braga
 What Physics informed ML research have you got going on
 
+### David Hatch
+Can each eiganmode be linked to a particular instability mode? For initial value solver we can find the growthrate at certain values of t. Through various methods we can identify the instability mode causing the density fluctuation amplitude growth.
+
 ### David hatch:
 Your parameters file has minor r=1, is this at the seperatrix? why there, isn't the pedestal better captured by r=0.9.
 ### David Hatch:  Linear is cheap why surrogate?
