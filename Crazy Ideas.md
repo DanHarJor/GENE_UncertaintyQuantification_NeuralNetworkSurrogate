@@ -1,4 +1,8 @@
 
+# Normalising flows to advance particle distribution function in time
+
+normalising flows is used to go from a simple distribution to a complex distribution. Perhaps it could be used to go from an initial distribution to another distribution just advanced in time. 
+
 # Data cleaning to get surrogate better than parent model
 [[2024-02-06>09#crazy idea|tarvaniemi]]
 I learned that many of these codes produce unrealistic results, including SOLPS and GENE. 

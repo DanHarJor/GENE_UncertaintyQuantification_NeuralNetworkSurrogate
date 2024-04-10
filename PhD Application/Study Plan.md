@@ -1,10 +1,13 @@
+Transferible Skills, (10cr)
+https://studies.helsinki.fi/degree-structure/study-module/otm-dbc1890d-bf01-4ba6-a760-f57442fa42b9?fbclid=IwAR2UY-6CShnmuAFyCP2f83Y7RP4VW6LhOkL8nGSL1tFGx-lM273Bovd9rAE
+
 2022-2023
 Stat Inverse Methods
 https://studies.helsinki.fi/courses/course-implementation/hy-opt-cur-2223-8642bb67-385d-4361-8aef-3f0281a7b249/PAP303
 
 [Cloud and Edge Computing, Lectures](https://studies.helsinki.fi/courses/course-implementation/hy-opt-cur-2223-b3d1bce4-f94b-407d-a6be-3b82dff29e15/CSM13103)
 
-[Plasma Physics, Lectures](https://studies.helsinki.fi/courses/course-implementation/hy-opt-cur-2223-e00c318a-7c11-40f4-badd-b7d02cb42ace/PAP304)
+[Plasma Physics, Lectures](https://studies.helsinki.fi/courses/course-implementation/hy-opt-cur-2223-e00c318a-7c11-40f4-badd-b7d02cb42ace/PAP304) 
 
 [Introduction to Real and Fourier Analysis, Examinarium (electronic exam room)](https://studies.helsinki.fi/courses/course-implementation/otm-536d762a-4dbf-4258-8698-64ff24b3e0b7/MAST30132)
 
@@ -58,7 +61,7 @@ https://studies.helsinki.fi/courses/course-implementation/hy-opt-cur-2223-8642bb
 
 [Design and Analysis of Algorithms, Lectures](https://studies.helsinki.fi/courses/course-implementation/hy-opt-cur-2223-9ed7d99e-6065-4f1d-94c2-27a052565879/CSM12101)
 
-[Models of Computation, Lectures](https://studies.helsinki.fi/courses/course-implementation/hy-opt-cur-2223-751ddd6e-5e12-4c3d-8182-fd91eaf17b44/BSCS2004)
+[Models of Computation, Lectures](https://studies.helsinki.fi/courses/course-implementation/hy-opt-cur-2223-751ddd6e-5e12-4c3d-8182-fd91eaf17b44/BSCS2004) Nope X
 
 
 2023-2024

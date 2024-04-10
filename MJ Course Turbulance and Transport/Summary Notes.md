@@ -120,11 +120,11 @@ There is an infinite number but in a simulation we find a number on the order of
 
 Although all the unstable modes will be found and there is an infinate number of stable modes or numerical modes. 
 
-I don't understand, a wavenumber corresponds to the wavelength of the wave that is propegating. How can this single wave have many modes? what even is a mode? Does this mean there can be many waves of the same wavelength and only some of them will grow. I really need to understand exactly what the **wavenumber is and exactly what an eigan mode is.**
+I don't understand, a wavenumber corresponds to the wavelength of the wave that is propegating. How can this single wave have many eigan modes? what even is an eigan mode? Does this mean there can be many waves of the same wavelength and only some of them will grow (NO!). ANS: Each wavenumber does correspond to a wave that is propegating. While the wave has only one growthrate and is found by solving the PDE, the eigan value solver finds base solutions, any real solution at time t is a linear combination of the infinate base solutions. Each base solution is an eigan mode. Many are stable with a -ve growthrate. a few are unstable. 
 
 ***How can we make more or fewer modes unstable?*** by lowering the drive, temperature and density gradients, beta, viscosity or shear McKinney JPP 2019
 
-each mode gets a growthrate, not the wavenumbers. I think the wavenumber is just because we are in k space and is refering to the new space rather than the actual realspace wave...?
+each eigan mode gets a growthrate, each wavenumber has a grothrate but we don't know it in the eigan value solver, we just know the growthrate of the modes. I think the wavenumber is just because we are in k space and is refering to the new space rather than the realspace wave...?
 
 ***Under what conditions is the gyrokinetic framework valid?*** 
 

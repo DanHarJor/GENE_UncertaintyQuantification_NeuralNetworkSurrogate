@@ -15,7 +15,7 @@ scp -i ~/.ssh/myprivatekey ~/dir/to/pytorch_ds.yml lumiusername@lumi.csc.fi:~/de
 ## creating singularity image with python enviroment ready to go
 `module load LUMI`
 `module load cotainr`
-`cotainr build my_container.sif --system=lumi-g --conda-env=my_conda_env.yml``
+`cotainr build my_container.sif --system=lumi-c --conda-env=my_conda_env.yml``
 `
 ## running a python file inside the container 
 `srun --partition=<partition> --account=<account> singularity exec my_container.sif python3 my_script.py``

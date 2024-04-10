@@ -4,9 +4,11 @@ https://www.helsinki.fi/en/admissions-and-education/apply-doctoral-programmes/ap
 
 ## Tell us about the degree that qualifies you for doctoral studies (e.g., master's degree, licentiate of medicine).
 
-Master of Physics (Mphys) University of Liverpool
+Master of Physics, University of Liverpool
 ## Write a brief summary of the thesis from your qualifying degree (max 1500 characters): 
 Fundamental Direct Band Gap of Antimony Selenide (Sb$_2$Se$_3$) and Implications for Potential use in Photovoltaics
+
+grade 67/100
 
 In 2017 Antimony selenide (Sb2Se3) was an promising light absorber for use in photovoltaic solar pannels. It is composed of cheap, Earth-abundant, non-toxic elements, has benign grain boundaries (reducing recombination losses) and is easy to deposit onto a substrate. Spectrophotometry was used on samples grown via close space sublimation, to measure the absorption spectra and infer the fundamental direct band gap. Which is a very important value to know when trying to absorb a specific wavelength of light from the sun. My thesis reported the fundamental direct band gap to be 1.19 ± 0.04 eV at room temperature. The Shockley Quiesser limit shows antimony selenide has a theoretical maximum efficiency of 32% if used in solar cells. 
 ## Attach your transcript of records and degree certificate as PDF files. Keep in mind that these files might need to be accompanied by officially certified paper copies or electronic documents through a credential service for official consideration.
@@ -51,19 +53,19 @@ Physics-informed machine learning will be used to guide the training of the surr
 
 To collect highly informative data for model training Bayesian statistics and information theory will be deployed. The Kulback-Leiber divergence measures how different two distributions are and can be used to measure the information gain of a Bayesian posterior compared to the prior. This can potentially be utilised to identify highly informative data. 
 
-The uncertainty of the model's predictions can be analysed in the same way as is currently deployed for GENE [3]. This could also aid in model development.
+The current uncertainty quantification for GENE relies on a surrogate model. The model developed in this work could also be used to generate accurate uncertainty predictions of GENE's outputs when provided with the uncertainty of the inputs [3].
 ## Objectives of the research and scientific impact of research results (2000 characters)
 What are the **objectives** of the project? Shortly present the **hypotheses** and the research questions. Describe the expected research result and their anticipated novelty value in terms of the research field and the current scientific discussion on the research topic. You may also shortly outline the reach, potential applications and utilization value of the research beyond the scientific community.
 
-The first objective is to create a baseline surrogate model using traditional machine learning methods for a local and linear gyrokinetic simulation. The next is to pipeline the use of uncertainty quantification [3] to guide the model development. After, incorporate the physics of gyrokinetics into the training of the model. Tests can be conducted for the hypothesis that physics informed machine learning allows a model to perform well on data outside of the training domain. Another objective is to create an informative data generation system. The hypothesis to test is; can a similar or improved model accuracy can be achieved with less data. Each of these research questions can be reposed when incorporating the physics of the pedestal and its unique magnetic geometry. Although similar research questions have been asked, to the best of my knowledge they have currently never been applied to gyrokinetics or the pedestal. Once trained to max performance, can the surrogate model accurately predict residual pedestal instabilities in real time for current tokamak control systems. 
+The first objective is to create a baseline surrogate model using traditional machine learning methods for a local and linear gyrokinetic simulation. The next is to incorporate the physics of gyrokinetics into the training of the model. Tests can be conducted for the hypothesis that physics informed machine learning allows a model to perform well on data outside of the training domain. Another objective is to create an informative data generation system. The hypothesis to test is; can a similar or improved model accuracy can be achieved with less data. Each of these research questions can be reposed when incorporating the physics of the pedestal and its unique magnetic geometry. Although similar research questions have been asked, to the best of my knowledge they have currently never been applied to gyrokinetics or the pedestal. Once trained to max performance, can the surrogate model accurately predict residual pedestal instabilities in real time for current tokamak control systems.
 
 With the many research questions and fusion technologies that could be developed, deciding which ones to fund or spend time on is an audacious task. Fast simulations allow researchers to quickly select the most promising of ideas and accurate simulations increase the chance of them succeeding. Time and money are limited and this project could save a significant amount of it for the development of fusion technology to serve the people clean and abundant energy. 
 
-A model of the pedestal would be useful for developing systems for instability mitigation, impurity handling, impurity pellet injection, and wall material synthesis. It would also add to a larger goal of the fusion community of creating a core to edge simulation of the plasma that combines multiple codes for various regions; and an even larger goal of creating a tokamak digital twin.
+A model of the pedestal would be useful for developing systems for instability mitigation, impurity handling, impurity pellet injection, and wall material synthesis. It would also add to a larger goal of the fusion community of creating a core to edge simulation of the plasma that combines multiple codes for various regions; and an even larger goal of creating a tokamak digital twin and flight simulator.
 ## Research methods and materials to be used and its significance for the project (3500 characters) 
 Outline the research methods, described so as to explain how they will contribute to answering the research questions/confirming the hypotheses, or how they will support the chosen approach.
 
-The project is using CSC high-peformance computing resource. At the moment, there is an allocation of about half million CPU hours and 50 000 GPU hours on the LUMI HPC for testing, developmeng and proof-of-principle work. Once these are consumed, an application for a factor of a few larger allocation will be prepared.  LUMI is the most powerful supercomputer in Europe. Small nodes will be used for machine learning model development. Larger resources will be requested for initial database generation. Eventually, the entirety of LUMI will be requested for final database creation, training and testing of the max performance model. 
+The project is using CSC high-peformance computing resource. At the moment, there is an allocation of about half million CPU hours and 50 000 GPU hours on the LUMI HPC for testing, development and proof-of-principle work. Once these are consumed, an application for a factor of a few larger allocation will be prepared.  LUMI is the most powerful supercomputer in Europe. Small nodes will be used for machine learning model development. Larger resources will be requested for initial database generation. Eventually, the entirety of LUMI will be requested for final database creation, training and testing of the max performance model. 
 
 The baseline model will be created using standard neural network architectures available on PyTorch and TensorFlow. The uncertainty quantification code has been developed and is openly available [3]. The model structure that minimises the uncertainty can be selected. The physics of Gyrokinetics can inform the model training with various libraries based on PyTorch and TensorFlow, such as DeepXDE, SimNet, PyDEns, NeuroDiff, NeuralPDE and SciANN; as these are based on solving partial differential equations. The method to include the pedestal physics within machine learning is still an open question. SciPy-Stats is a library for probabilistic distributions and statistical operations and can be used to develop the Bayesian highly informative data generator. 
 
@@ -92,7 +94,7 @@ A GENE surrogate model that allowed the prediction of ITER fusion gain to be wit
 
 [3] Ionuţ-Gabriel Farcaş, et al. Communications Engineering 1, 43 (2022) 
 
-A framework for determining the uncertainty of complex models that has already been applied to GENE. This could be useful for determining the uncertainty of proposed machine learning models for model comparison and hyperparameter tuning. It also boasts the method intrinsically creates a surrogate model that is 9 orders of magnitude faster than the original model. This could aid in the development of a physics informed surrogate model or be used for verification.  
+A framework for determining the uncertainty of complex models that has already been applied to GENE.   
 
 [3] Dhruv Patel, et al. Computer Methods in Applied Mechanics and Engineering 419, 116536 (2024) 
 A method to solve partial differential equations using neural networks in a way that does not involve retraining for every set of input parameters. 
@@ -126,6 +128,20 @@ Reduced models for ETG transport in the tokamak pedestal
     
 
 4. If time permits, further research fidelity increase of the surrogate model with broader parameter ranges, global simulations or non-linear turbulence features.
+
+Preliminary Timetable for your research
+
+For the 5th International Conference on Data-Driven Plasma Science on August 12th I plan to have a framework for generating surrogate models for complex physics models that allows experimentation with physics informed techniques and machine learning models. I will have generated surrogate models using standard machine learning techniques and assessed their performance. I will have developed a deep understanding of the turbulence physics at the pedestal region of a tokamak.
+
+By the end of 2024 I plan to have tested many machine learning models and physics informed approaches and be able to write a paper that compares the various implementations for specific tubulence problems within the pedestal.
+
+By the end of 2025 I plan to apply the developed surrogate model in amortized inference and uncertainty quantification. I will demonstrate the capability of the approach to process through large quantities of experimental data, which would have many use cases in fusion research. 
+
+By the end of 2026 I plan to validate the model against many experiments within the JET tokamak. I will couple the surrogate model of linear GENE with an experiment-based saturation rules developed by collaborating colleagues in USA. Apply active learning or Bayesian approaches to data efficiently add these to the training dataset.
+
+With any extra time I would further research fidelity increase of the surrogate model with broader parameter ranges, global simulations or non-linear turbulence features.
+
+
 ## Planned funding for the research project including received and applied notable funding thus far (1000 characters) 
 
 Employment at VTT in the Fusion energy and decommissioning team
@@ -133,22 +149,29 @@ Employment at VTT in the Fusion energy and decommissioning team
 # Supervision arrangements
 I need a signed supervision agreement
 
-Minna Palmroth, Aaro
+Palmroth, Minna
+Professor
+Space Physics Research Group
+minna.palmroth@helsinki.fi
 
+Jarvinen, Aaro
+Senior Scientist
+VTT, Technical Research Center Finland
+aaro.jarvinen@vtt.fi
 # Previously Acquired Knowledge CV
 
 ## Previously acquired research knowledge (1500)
 Previous experience in research work, other scientific work and/or scientific merits, including possible academic awards and other academic acknowledgements.
 
-Masters Thesis 
+Masters Thesis
 Fundamental Direct Band Gap of Antimony Selenide (Sb$_2$Se$_3$) and Implications for Potential use in Photovoltaics
 My masters thesis explored the properties of a new material and was used to direct further research.
 
 Physics of Data
-I am close to completing a second masters in Physics of Data from the University of Padua. This involved many projects related to machine learning. One of these involved working with a supervisor to contribute to their research. My group worked with Michella Mapelli and was using decision trees to identify the properties of binary black holes that contribute the most to their lifetime.
+On the 18th of April 2024 I will graduate from a second masters in Physics of Data from the University of Padua for which I received the prestigious scholarship of Excellence. This involved many projects related to machine learning. One of these involved working with a supervisor to contribute to their research. My group worked with Michella Mapelli and was using decision trees to identify the properties of binary black holes that contribute the most to their lifetime.
 
-For my second masters thesis I conducted research with Ghent university under Geert Verdoolaege for 3 months and completed a project that explored using Bayesian inference with a Gaussian process prior to infer the electron density profile of a tokamak plasma with interferometry data
-liverpool, padua
+For my second masters thesis I conducted research with Ghent university under Geert Verdoolaege for 3 months and completed a project that explored using Bayesian inference with a Gaussian process prior to infer the electron density profile of a tokamak plasma with interferometry data.
+
 
 ## Possible publications and conference presentations (1500 characters)
 
@@ -156,7 +179,8 @@ Currently I have made no publications and have not presented at any conferences
 
 ## Possible international experience and other work experience relevant to your doctoral research(1500 characters).
 
-My masters thesis for Physics of Data was 
+Employment at VTT:
+Since January 2nd I have been employed full-time as a scientific researcher within the VTT Technical Research center.  I have already begun gathering the required knowledge for this PhD project. I attended a Turbulence and Transport crash course from a world-leading expert in plasma turbulence, MJ Peuschel. I have familiarized myself with running GENE and interpreting its results. I am currently collaborating with co-workers to develop a framework for generating databases of results from complex physics codes for surrogate model training. Thus the project being proposed for this PhD is currently underway.
 ## Possible career breaks (1500 characters)
 
 After my first physics masters in 2017 I took a career break before starting my second physics of data masters in 2021.
@@ -169,5 +193,40 @@ After I was contempt with the progress of my novel I focused on a variety of pro
 
 ## Discipline-specific studies (30 ECTS) (1500 characters)
 
+Partial Differential Equations I, 5cr
+https://studies.helsinki.fi/courses/course-implementation/hy-opt-cur-2324-f4ee8447-53cb-46a0-a628-e4d495024b48/MAST30172
+
+Partial Differential Equations II, 5cr
+https://studies.helsinki.fi/courses/course-implementation/hy-opt-cur-2324-c0180d83-3464-4196-9c65-275d57365fcf/MAST30173
+
+Distributed Systems, 5cr
+https://studies.helsinki.fi/courses/course-implementation/hy-opt-cur-2223-b8ec1422-835b-4bdb-bd2c-25df506de0f8/CSM13001
+
+Programming for Performance, 5cr
+https://studies.helsinki.fi/courses/course-implementation/hy-opt-cur-2223-a7f1e684-d6dc-4a9c-9ade-1ccdcdb59fd8/BSCS2011
+
+Plasma Physics, 5cr
+https://studies.helsinki.fi/courses/course-implementation/hy-opt-cur-2223-e00c318a-7c11-40f4-badd-b7d02cb42ace/PAP304
+
+Advanced Course in Machine Learning, 5cr
+https://studies.helsinki.fi/courses/course-implementation/hy-opt-cur-2324-b76f7ea8-2498-4127-9526-dfa63260084a/DATA12001
+
 ## Transferable skills (10 ECTS) (1500 characters)
+https://studies.helsinki.fi/degree-structure/study-module/otm-dbc1890d-bf01-4ba6-a760-f57442fa42b9?fbclid=IwAR2UY-6CShnmuAFyCP2f83Y7RP4VW6LhOkL8nGSL1tFGx-lM273Bovd9rAE
+
+Philosephy of Science, 1-5cr
+https://studies.helsinki.fi/courses/course-unit/otm-868dc888-f7ac-46c4-b319-6330a7b4526a?cpId=hy-lv-74
+
+Facing the Final Frontier: Writing the Article-Based Dissertation (1 cr)
+https://studies.helsinki.fi/courses/course-unit/otm-56aa42f8-3689-4725-b13d-1601d3b65d0d?cpId=hy-lv-74
+
+Academic Writing for Doctoral Researchers (2 cr)
+https://studies.helsinki.fi/courses/course-unit/otm-83555aac-9a93-45bd-b7df-2867d7444690?cpId=hy-lv-74
+
+Leading a creative expert organisation (1–5 cr)
+https://studies.helsinki.fi/courses/course-unit/otm-e3be4ad9-abe7-4283-84d8-ddfc3c801b01?cpId=hy-lv-74
+
+Sustainability course (3 cr)
+https://studies.helsinki.fi/courses/course-unit/otm-cb1bbe03-9b38-427a-8613-d2e43475dcb4?cpId=hy-lv-74
+
 

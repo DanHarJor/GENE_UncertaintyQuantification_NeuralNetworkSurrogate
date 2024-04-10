@@ -227,6 +227,87 @@
       "relations": {},
       "dateAdded": "2024-03-15T07:51:21Z",
       "dateModified": "2024-03-15T07:51:22Z"
+    },
+    {
+      "key": "DKN2JWUQ",
+      "version": 18,
+      "parentItem": "FAQBPDMX",
+      "itemType": "attachment",
+      "linkMode": "imported_url",
+      "title": "arXiv.org Snapshot",
+      "accessDate": "2024-04-08T13:41:13Z",
+      "url": "https://arxiv.org/abs/2108.12956",
+      "note": "",
+      "contentType": "text/html",
+      "charset": "utf-8",
+      "filename": "2108.html",
+      "md5": "def7870d28e5b2d3bcec2969fa43e46b",
+      "mtime": 1712583673000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2024-04-08T13:41:13Z",
+      "dateModified": "2024-04-08T13:41:13Z"
+    },
+    {
+      "key": "NV669XY4",
+      "version": 17,
+      "parentItem": "FAQBPDMX",
+      "itemType": "attachment",
+      "linkMode": "imported_url",
+      "title": "arXiv Fulltext PDF",
+      "accessDate": "2024-04-08T13:41:08Z",
+      "url": "https://arxiv.org/pdf/2108.12956.pdf",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Guo et al. - 2022 - Normalizing field flows Solving forward and inver.pdf",
+      "md5": "37832497e4e184ab8872517d0d47f381",
+      "mtime": 1712583668000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2024-04-08T13:41:08Z",
+      "dateModified": "2024-04-08T13:41:08Z"
+    },
+    {
+      "key": "FAQBPDMX",
+      "version": 15,
+      "itemType": "journalArticle",
+      "title": "Normalizing field flows: Solving forward and inverse stochastic differential equations using physics-informed flow models",
+      "creators": [
+        {"creatorType": "author", "firstName": "Ling", "lastName": "Guo"},
+        {"creatorType": "author", "firstName": "Hao", "lastName": "Wu"},
+        {"creatorType": "author", "firstName": "Tao", "lastName": "Zhou"}
+      ],
+      "abstractNote": "We introduce in this work the normalizing field flows (NFF) for learning random fields from scattered measurements. More precisely, we construct a bijective transformation (a normalizing flow characterizing by neural networks) between a Gaussian random field with the Karhunen-Lo\\`eve (KL) expansion structure and the target stochastic field, where the KL expansion coefficients and the invertible networks are trained by maximizing the sum of the log-likelihood on scattered measurements. This NFF model can be used to solve data-driven forward, inverse, and mixed forward/inverse stochastic partial differential equations in a unified framework. We demonstrate the capability of the proposed NFF model for learning Non Gaussian processes and different types of stochastic partial differential equations.",
+      "publicationTitle": "Journal of Computational Physics",
+      "volume": "461",
+      "issue": "",
+      "pages": "111202",
+      "date": "07/2022",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Journal of Computational Physics",
+      "language": "",
+      "DOI": "10.1016/j.jcp.2022.111202",
+      "ISSN": "00219991",
+      "shortTitle": "Normalizing field flows",
+      "url": "http://arxiv.org/abs/2108.12956",
+      "accessDate": "2024-04-08T13:41:07Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "arXiv.org",
+      "callNumber": "",
+      "rights": "",
+      "extra": "arXiv:2108.12956 [cs, math]",
+      "tags": [
+        {"tag": "Computer Science - Machine Learning", "type": 1},
+        {"tag": "Mathematics - Numerical Analysis", "type": 1}
+      ],
+      "collections": ["FQRU2IDM"],
+      "relations": {},
+      "dateAdded": "2024-04-08T13:41:07Z",
+      "dateModified": "2024-04-08T13:41:07Z"
     }
   ],
   "collections": [
@@ -253,5 +334,5 @@
     }
   ],
   "name": "pomegranate_sauce",
-  "version": 14
+  "version": 19
 }
