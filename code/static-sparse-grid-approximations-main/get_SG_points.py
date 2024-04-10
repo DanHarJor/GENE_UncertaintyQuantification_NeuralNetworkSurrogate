@@ -2,9 +2,8 @@ from sg_lib.grid.grid import *
 from sg_lib.algebraic.multiindex import *
 
 from config.config import *
-    
-if __name__ == '__main__':
-	
+
+def get_SG_points():
 	## objects setup
 	Grid_obj 				= Grid(dim, level, level_to_nodes, left_bounds, right_bounds, weights)	
 	Multiindex_obj 			= Multiindex(dim)
@@ -21,4 +20,8 @@ if __name__ == '__main__':
 	mapped_sg_points = Grid_obj.map_std_sg_surplus_points(std_sg_points, left_stoch_boundary, right_stoch_boundary)
 
 	print("\033[1m mapped sparse grid points \033[0m")
-	print(mapped_sg_points)
+	return mapped_sg_points
+
+if __name__ == '__main__':
+	print(get_SG_points())
+	
