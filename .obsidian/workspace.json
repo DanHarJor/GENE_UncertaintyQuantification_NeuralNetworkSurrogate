@@ -35,14 +35,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Crazy Ideas.md",
+                "file": "2024-04-09.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "0462d9448bbebdeb",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "MJ Course Turbulance and Transport/4_Geometry_InstabilityZoo.pdf"
+              }
+            }
+          },
+          {
+            "id": "3bb562283e936423",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "MJ Course Turbulance and Transport/4_Geometry_InstabilityZoo.pdf"
+              }
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Crazy Ideas.md",
+                "file": "Models to Try and Uncertainties to Quantify.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Crazy Ideas.md",
+                "file": "Models to Try and Uncertainties to Quantify.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Crazy Ideas.md"
+                "file": "Models to Try and Uncertainties to Quantify.md"
               }
             }
           }
@@ -170,19 +189,23 @@
       "zotero-sync-client:Sync with Zotero": false
     }
   },
-  "active": "34ec4e7bb9b507cf",
+  "active": "1d5364ef12110f9f",
   "lastOpenFiles": [
-    "Unconfirmed 444698.crdownload",
-    "A guide to generating probability distributions with neural networks _ by Sam Blake _ HAL24K TechBlog _ Medium.pdf",
-    "A guide to generating probability distributions with neural networks _ by Sam Blake _ HAL24K TechBlog _ Medium.html",
-    "A guide to generating probability distributions with neural networks _ by Sam Blake _ HAL24K TechBlog _ Medium_files/v84a3a4012de94ce1a686ba8c167c359c1696973893317",
-    "A guide to generating probability distributions with neural networks _ by Sam Blake _ HAL24K TechBlog _ Medium_files/unbound.css",
-    "A guide to generating probability distributions with neural networks _ by Sam Blake _ HAL24K TechBlog _ Medium_files/shim.js",
-    "A guide to generating probability distributions with neural networks _ by Sam Blake _ HAL24K TechBlog _ Medium_files/reporting.2021fe63.chunk.js",
-    "A guide to generating probability distributions with neural networks _ by Sam Blake _ HAL24K TechBlog _ Medium_files/manifest.4a19cdca.js",
-    "A guide to generating probability distributions with neural networks _ by Sam Blake _ HAL24K TechBlog _ Medium_files/main.e6f247c4.js",
-    "A guide to generating probability distributions with neural networks _ by Sam Blake _ HAL24K TechBlog _ Medium_files/js",
-    "A guide to generating probability distributions with neural networks _ by Sam Blake _ HAL24K TechBlog _ Medium_files/instrumentation.5e7f2981.chunk.js",
+    "MJ Course Turbulance and Transport/4_Geometry_InstabilityZoo.pdf",
+    "MJ Course Turbulance and Transport/6_NumericalTechniques.pdf",
+    "TheoryNotes/DEEPlasma Microturbulance.md",
+    "Models to Try and Uncertainties to Quantify.md",
+    "MJ Course Turbulance and Transport/MJ_TurbulanceMerged.pdf",
+    "2024-04-09.md",
+    "lu10038csso.tmp",
+    "MJ Course Turbulance and Transport/8_QuasiLinear_Transport_Applications.pdf",
+    "MJ Course Turbulance and Transport/9_Transport_Code.pdf",
+    "MJ Course Turbulance and Transport/7_ZonalFlows_BetaRunaway.pdf",
+    "MJ Course Turbulance and Transport/5_Gyrokinetic_Derivation.pdf",
+    "MJ Course Turbulance and Transport/3_Kinetics_Fluid_Models.pdf",
+    "MJ Course Turbulance and Transport/2_Intro_to_turbulance.pdf",
+    "2024-04-08.md",
+    "Crazy Ideas.md",
     "A guide to generating probability distributions with neural networks _ by Sam Blake _ HAL24K TechBlog _ Medium_files/2_rQJXQWhxqLF1EnZ23_sXug.png",
     "A guide to generating probability distributions with neural networks _ by Sam Blake _ HAL24K TechBlog _ Medium_files/2_rQJXQWhxqLF1EnZ23_sXug(2).png",
     "A guide to generating probability distributions with neural networks _ by Sam Blake _ HAL24K TechBlog _ Medium_files/2_rQJXQWhxqLF1EnZ23_sXug(1).png",
@@ -193,10 +216,8 @@
     "A guide to generating probability distributions with neural networks _ by Sam Blake _ HAL24K TechBlog _ Medium_files/1_pippg32_cGOr3zwRq__Ncw@2x.jpg",
     "A guide to generating probability distributions with neural networks _ by Sam Blake _ HAL24K TechBlog _ Medium_files/1_pY0wOPTFpoqQ_f17pIMUXw.jpg",
     "A guide to generating probability distributions with neural networks _ by Sam Blake _ HAL24K TechBlog _ Medium_files/1_nhOXvxyIY2hpWT2PmZu3QQ.png",
-    "TheoryNotes/DEEPlasma Microturbulance.md",
     "DEEPlasma Meetings/Questions.md",
     "TSVV1_ACH/Questions.md",
-    "Models to Try and Uncertainties to Quantify.md",
     "MJ Course Turbulance and Transport/Summary Notes.md",
     "References/Guo+NaN.md",
     "PhD Application/Application Forum draft 2.md",
@@ -214,9 +235,6 @@
     "References/Raissi+KarniadakisNaN.md",
     "References/Zhang+NaN.md",
     "PhD Application/Application Forum Draft 1.md",
-    "PhD Application/Application Forum.md",
-    "TSVV1_ACH/TODO.md",
-    "DailyAchievments/2024-03-22.md",
-    "DailyAchievments/2024-04-02.md"
+    "PhD Application/Application Forum.md"
   ]
 }

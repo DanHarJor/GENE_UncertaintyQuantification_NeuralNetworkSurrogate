@@ -8,6 +8,9 @@ Apparently they take a long time to converge can be data hungry and computationa
 
 PINN
 
+Neural Operator
+Adam mentioned this in a wednesday team meeting. He said that if my goal is to take a particle distribution and advance it in time then I would use a neural operator. Whilst a PINN would take a position in phase space and compute the distribution value. 
+
 GPR
 Only low dimensions. Adam: you could always cast the GPR kernel in terms of a neural tangent kernel ;) then should work out
 

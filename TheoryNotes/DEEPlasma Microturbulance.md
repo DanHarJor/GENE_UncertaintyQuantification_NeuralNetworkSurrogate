@@ -4,14 +4,14 @@ Micro-instabilities can be seen as perturbations from an equilibrium.
 Lets consider a toy problem. For a specific location in space there will be an equilibrium density and a small perturbation.
 
 $n = n_0 + n_1$ 
-Where $n_0$ is the equilibrium density and $n_1$ is a small perturbation.
+Where $n_0$ is the equilibrium density for a specific point in space, and $n_1$ is a small perturbation.
 
 We have some partial differential equation derived from experimental data or fundamental physics that describes the evolution of the system through time.
 
 $$\frac{\partial n_1}{\partial t} = A n_1 + Bn_1² ...$$
 The linear part can be solved by guessing the functional form, ansatz and using an eigan value solver
 $$
-n_1 = n_1(t=0) e^{st}
+n_1 = n_{1(t=0)} e^{st}
 $$
 where $s$ is a complex frequency
 
@@ -35,6 +35,7 @@ $$\frac{\partial}{\partial t} n_1 = \Lambda n_1$$
 
 The true value of $n_1$ at some time t can be expressed as a linear combination of the infinate many eigan functions. 
 $$n_1(t) = a \ n_1¹ + b\ n_1² + c \ n_1³ ...$$
+$$n_1¹ = e^{\gamma¹ t} e^{i\omega¹ t}$$
 Each eigan function $n_1^i$ has a different $\gamma$ and $\omega$ Some of the eigan functions will have a -ve gamma and thus their amplitude will decay exponentially over time. We don't care about those. Others have a +ve gamma and will dominate the function $n_1(t)$ after a long time. These are known as unstable eigan modes. These are the only ones Linear GENE will return. After some time the mode with the largest growthrate will dominate. Although sub-dominant modes are still returned. With an initial value solver you tend to only see the dominant modes. While there are infinate eigan modes the number of unstable ones are finite. Also since computers can't deal with infinities, the number of modes in the simulation is dependent on the numerical resolution. 
 
 ## Vlasov Equation
