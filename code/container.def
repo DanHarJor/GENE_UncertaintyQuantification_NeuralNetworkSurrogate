@@ -1,0 +1,12 @@
+Bootstrap: localimage
+From: container.sif
+
+%post
+##########required for VS studio to connect to enviroment, See tutorial in readme#########
+	apt-get update -y
+	apt-get install curl -y
+	apt-get install wget -y
+#######################################
+	#example fo package installation
+	#conda install anaconda::seaborn
+
