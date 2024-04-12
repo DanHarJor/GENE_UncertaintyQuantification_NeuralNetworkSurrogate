@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Models to Try and Uncertainties to Quantify.md",
+                "file": "MJ Course Turbulance and Transport/Summary Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,13 +55,16 @@
             "id": "3bb562283e936423",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "MJ Course Turbulance and Transport/4_Geometry_InstabilityZoo.pdf"
+                "file": "Code Docs/Singularity.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -111,7 +114,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d217d876c4ecc454",
@@ -127,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Models to Try and Uncertainties to Quantify.md",
+                "file": "Code Docs/Singularity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Models to Try and Uncertainties to Quantify.md",
+                "file": "Code Docs/Singularity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Models to Try and Uncertainties to Quantify.md"
+                "file": "Code Docs/Singularity.md"
               }
             }
           }
@@ -189,23 +193,42 @@
       "zotero-sync-client:Sync with Zotero": false
     }
   },
-  "active": "1d5364ef12110f9f",
+  "active": "3bb562283e936423",
   "lastOpenFiles": [
-    "MJ Course Turbulance and Transport/4_Geometry_InstabilityZoo.pdf",
-    "MJ Course Turbulance and Transport/6_NumericalTechniques.pdf",
-    "TheoryNotes/DEEPlasma Microturbulance.md",
+    "code/uq_gene.def~",
+    "code/create_container.sh~",
+    "code/create_container.sh",
+    "code/container.sif",
+    "code/container.def~",
+    "code/container.def",
+    "DEEPlasma Meetings/Questions.md",
+    "ToyProblem DEEPlasma/First Meeting with David.md",
+    "code/enchanted.yml",
+    "code/enchanted.sh~",
+    "code/enchanted.sh",
+    "lu119661nd6j.tmp",
+    "lu119661nd5p.tmp",
+    "VTT travel.md",
+    "Untitled.md",
+    "UKAEA.md",
+    "Travel Meeting Notes.md",
+    "To DO list.md",
+    "People.md",
+    "other similar projects.md",
     "Models to Try and Uncertainties to Quantify.md",
-    "MJ Course Turbulance and Transport/MJ_TurbulanceMerged.pdf",
-    "2024-04-09.md",
-    "lu10038csso.tmp",
-    "MJ Course Turbulance and Transport/8_QuasiLinear_Transport_Applications.pdf",
-    "MJ Course Turbulance and Transport/9_Transport_Code.pdf",
-    "MJ Course Turbulance and Transport/7_ZonalFlows_BetaRunaway.pdf",
-    "MJ Course Turbulance and Transport/5_Gyrokinetic_Derivation.pdf",
-    "MJ Course Turbulance and Transport/3_Kinetics_Fluid_Models.pdf",
-    "MJ Course Turbulance and Transport/2_Intro_to_turbulance.pdf",
-    "2024-04-08.md",
+    "MGKDB meeting 1, inc Chat on PINNS.md",
+    "Liquid Gold.md",
+    "Library Map.md",
+    "Good Ideas.md",
+    "Future Group meeting Points to Discuss.md",
     "Crazy Ideas.md",
+    "Adam Convo.md",
+    "2024-04-09.md",
+    "Frassinetti_2021_Nucl._Fusion_61_016001.pdf.md",
+    "References/Ha+Schmidhuber2018.md",
+    "MJ Course Turbulance and Transport/Summary Notes.md",
+    "TheoryNotes/DEEPlasma Microturbulance.md",
+    "2024-04-08.md",
     "A guide to generating probability distributions with neural networks _ by Sam Blake _ HAL24K TechBlog _ Medium_files/2_rQJXQWhxqLF1EnZ23_sXug.png",
     "A guide to generating probability distributions with neural networks _ by Sam Blake _ HAL24K TechBlog _ Medium_files/2_rQJXQWhxqLF1EnZ23_sXug(2).png",
     "A guide to generating probability distributions with neural networks _ by Sam Blake _ HAL24K TechBlog _ Medium_files/2_rQJXQWhxqLF1EnZ23_sXug(1).png",
@@ -216,25 +239,7 @@
     "A guide to generating probability distributions with neural networks _ by Sam Blake _ HAL24K TechBlog _ Medium_files/1_pippg32_cGOr3zwRq__Ncw@2x.jpg",
     "A guide to generating probability distributions with neural networks _ by Sam Blake _ HAL24K TechBlog _ Medium_files/1_pY0wOPTFpoqQ_f17pIMUXw.jpg",
     "A guide to generating probability distributions with neural networks _ by Sam Blake _ HAL24K TechBlog _ Medium_files/1_nhOXvxyIY2hpWT2PmZu3QQ.png",
-    "DEEPlasma Meetings/Questions.md",
     "TSVV1_ACH/Questions.md",
-    "MJ Course Turbulance and Transport/Summary Notes.md",
-    "References/Guo+NaN.md",
-    "PhD Application/Application Forum draft 2.md",
-    "MJ Course Turbulance and Transport/Day 1 Intro to Plasma Physics.md",
-    "Good Ideas.md",
-    "2024-04-03, UQ first growthrate distributions.md",
-    "DailyAchievments/2024-04-04.md",
-    "TSVV1_ACH/2024-03-21 after first gene scan.md",
-    "PhD Application/Study Plan.md",
-    "Adam Convo.md",
-    "2024-04-05.md",
-    "MGKDB meeting 1, inc Chat on PINNS.md",
-    "PhD Application/Research Proposal.md",
-    "Staff Profile ACH.md",
-    "References/Raissi+KarniadakisNaN.md",
-    "References/Zhang+NaN.md",
-    "PhD Application/Application Forum Draft 1.md",
-    "PhD Application/Application Forum.md"
+    "References/Guo+NaN.md"
   ]
 }

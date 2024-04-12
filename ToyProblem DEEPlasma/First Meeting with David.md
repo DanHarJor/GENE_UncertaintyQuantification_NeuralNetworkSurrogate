@@ -16,7 +16,9 @@ Q = n \Delta T \chi
 $$
 $$\chi \propto \frac{L²}{T_g}$$
 
-$$\chi = \frac{\gamma c}{<k_{\perp}>²}$$
+$$\chi = \frac{\gamma c}{<k_{\perp}²>}$$
+
+
 $\gamma$ is the growth-rate of the instability, $<k_{\perp}>$
 is the average micro instability wave vector perpendicular to the magnetic field, c is the saturation rule; it is a fudge factor that is tuned to match non linear simulations or experiment.
 
@@ -24,4 +26,9 @@ $\chi$ is diffusivity, $T_g$ is growth rate of the instability, $L$ is inverse t
 
 $\chi = \frac{\gamma c}{<k_{\perp}>²}$ , , 
 
+MJ quasilinear expression:
 
+$$
+Q=-\frac{\nabla T}{T} \sum_{j, k_y} C(k_y) \frac{\gamma(j,k_y)}{<k_\perp(k_y,j)²>}   
+$$
+We can get everything from a linear simulation, except, $C(k_y)$ this is the saturation rule and needs to be tuned to match a non-linear simulation or experiment.  

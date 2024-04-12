@@ -6,4 +6,5 @@ From: uq_gene.sif
 	#apt-get install curl -y
 	#apt-get install wget -y
 
-	conda install conda-forge::f90nml
+	#conda install conda-forge::f90nml
+	apt install htop -y
