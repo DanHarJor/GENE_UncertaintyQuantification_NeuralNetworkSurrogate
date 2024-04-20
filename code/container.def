@@ -1,5 +1,5 @@
 Bootstrap: localimage
-From: container.sif
+From: base_container.sif
 
 %post
 ##########required for VS studio to connect to enviroment, See tutorial in readme#########
@@ -7,6 +7,9 @@ From: container.sif
 	apt-get install curl -y
 	apt-get install wget -y
 #######################################
+	apt install lua5.3 -y	
+	
+
 	#example fo package installation
 	#conda install anaconda::seaborn
 

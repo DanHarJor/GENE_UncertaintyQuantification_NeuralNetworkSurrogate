@@ -11,60 +11,13 @@
             "id": "1d5364ef12110f9f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "MJ Course Turbulance and Transport/Summary Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8e424c9b5f19cd21",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "MJ Course Turbulance and Transport/MJ_TurbulanceMerged.pdf"
-              }
-            }
-          },
-          {
-            "id": "34ec4e7bb9b507cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-04-09.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0462d9448bbebdeb",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "MJ Course Turbulance and Transport/4_Geometry_InstabilityZoo.pdf"
-              }
-            }
-          },
-          {
-            "id": "3bb562283e936423",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Code Docs/Singularity.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2024-04-20 15.44.36.excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d217d876c4ecc454",
@@ -131,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code Docs/Singularity.md",
+                "file": "Excalidraw/Drawing 2024-04-20 15.44.36.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code Docs/Singularity.md",
+                "file": "Excalidraw/Drawing 2024-04-20 15.44.36.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code Docs/Singularity.md"
+                "file": "Excalidraw/Drawing 2024-04-20 15.44.36.excalidraw.md"
               }
             }
           }
@@ -190,45 +142,48 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "zotero-sync-client:Sync with Zotero": false
+      "zotero-sync-client:Sync with Zotero": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3bb562283e936423",
+  "active": "1d5364ef12110f9f",
   "lastOpenFiles": [
-    "code/uq_gene.def~",
-    "code/create_container.sh~",
-    "code/create_container.sh",
-    "code/container.sif",
-    "code/container.def~",
-    "code/container.def",
+    "Excalidraw/Drawing 2024-04-20 15.44.36.excalidraw.md",
+    "Excalidraw/2024-04-1 2024-04-20 15.06.27.excalidraw.md",
+    "Excalidraw/2024-04-1 2024-04-20 15.03.07.excalidraw.md",
     "DEEPlasma Meetings/Questions.md",
-    "ToyProblem DEEPlasma/First Meeting with David.md",
-    "code/enchanted.yml",
-    "code/enchanted.sh~",
-    "code/enchanted.sh",
-    "lu119661nd6j.tmp",
-    "lu119661nd5p.tmp",
-    "VTT travel.md",
-    "Untitled.md",
-    "UKAEA.md",
-    "Travel Meeting Notes.md",
-    "To DO list.md",
-    "People.md",
-    "other similar projects.md",
-    "Models to Try and Uncertainties to Quantify.md",
-    "MGKDB meeting 1, inc Chat on PINNS.md",
-    "Liquid Gold.md",
-    "Library Map.md",
-    "Good Ideas.md",
-    "Future Group meeting Points to Discuss.md",
-    "Crazy Ideas.md",
-    "Adam Convo.md",
-    "2024-04-09.md",
-    "Frassinetti_2021_Nucl._Fusion_61_016001.pdf.md",
-    "References/Ha+Schmidhuber2018.md",
+    "Excalidraw/Questions 2024-04-20 15.12.02.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-20 14.44.39.excalidraw.md",
+    "MJ Course Turbulance and Transport/MJ_TurbulanceMerged.pdf",
+    "Excalidraw/annotated_2024-04-1 2024-04-20 15.03.07.excalidraw.md",
+    "2024-04-1.md",
+    "Excalidraw/2024-04-1 2024-04-20 15.09.04.excalidraw.md",
+    "DEEPlasma Meetings/Drawing 2024-04-20 15.00.50.excalidraw.md",
+    "Excalidraw/cropped_cropped_annotated_Drawing 2024-04-20 14.44.39.excalidraw.md",
+    "Excalidraw/cropped_annotated_Drawing 2024-04-20 14.44.39.excalidraw.md",
+    "Excalidraw/annotated_Drawing 2024-04-20 14.44.39.excalidraw.md",
+    "Excalidraw/cropped_Drawing 2024-04-20 14.44.39.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-20 14.44.58.excalidraw.md",
     "MJ Course Turbulance and Transport/Summary Notes.md",
-    "TheoryNotes/DEEPlasma Microturbulance.md",
-    "2024-04-08.md",
+    "Excalidraw",
+    "2024-04-18.md",
+    "2024-04-17.md",
+    "2024-04-16.md",
+    "2024-04-15.md",
+    "2024-04-12.md",
+    "2024-04-11.md",
+    "MJ Course Turbulance and Transport/4_Geometry_InstabilityZoo.pdf",
+    "DEEPlasma Meetings/Presentations/1_Daniel_intro_to_fusion_part2.mp4",
+    "DEEPlasma Meetings/Presentations/2_daniel_intro_to_gene.mp4",
+    "DEEPlasma Meetings/Presentations/2_Daniel_intro_to_gene.pdf",
+    "DEEPlasma Meetings/Presentations/lu108941kdmf7.tmp",
+    "DEEPlasma Meetings/Presentations",
+    "enchanted-surrogates/Questions.md",
+    "2024-04-09.md",
+    "Staff Profile ACH.md",
+    "Code Docs/Singularity.md",
+    "code/container.def~",
+    "code/base_container.sif",
     "A guide to generating probability distributions with neural networks _ by Sam Blake _ HAL24K TechBlog _ Medium_files/2_rQJXQWhxqLF1EnZ23_sXug.png",
     "A guide to generating probability distributions with neural networks _ by Sam Blake _ HAL24K TechBlog _ Medium_files/2_rQJXQWhxqLF1EnZ23_sXug(2).png",
     "A guide to generating probability distributions with neural networks _ by Sam Blake _ HAL24K TechBlog _ Medium_files/2_rQJXQWhxqLF1EnZ23_sXug(1).png",
@@ -238,8 +193,6 @@
     "A guide to generating probability distributions with neural networks _ by Sam Blake _ HAL24K TechBlog _ Medium_files/1_qVvCKsTqMRrwj8BPdCUDkw.png",
     "A guide to generating probability distributions with neural networks _ by Sam Blake _ HAL24K TechBlog _ Medium_files/1_pippg32_cGOr3zwRq__Ncw@2x.jpg",
     "A guide to generating probability distributions with neural networks _ by Sam Blake _ HAL24K TechBlog _ Medium_files/1_pY0wOPTFpoqQ_f17pIMUXw.jpg",
-    "A guide to generating probability distributions with neural networks _ by Sam Blake _ HAL24K TechBlog _ Medium_files/1_nhOXvxyIY2hpWT2PmZu3QQ.png",
-    "TSVV1_ACH/Questions.md",
-    "References/Guo+NaN.md"
+    "A guide to generating probability distributions with neural networks _ by Sam Blake _ HAL24K TechBlog _ Medium_files/1_nhOXvxyIY2hpWT2PmZu3QQ.png"
   ]
 }
