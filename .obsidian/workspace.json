@@ -4,20 +4,57 @@
     "type": "split",
     "children": [
       {
-        "id": "aed2d9635ed43c2b",
+        "id": "9f4edee3f6de5c89",
         "type": "tabs",
         "children": [
           {
-            "id": "1d5364ef12110f9f",
+            "id": "7464982bd83b8d5e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-20 15.44.36.excalidraw.md"
+                "file": "TSVV1_ACH/Questions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6825efeca9e42eed",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "MJ Course Turbulance and Transport/6_NumericalTechniques.pdf"
+              }
+            }
+          },
+          {
+            "id": "3666add27a854289",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Code Docs/Singularity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4a10a8c0b048502b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DEEPlasma/Questions.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -46,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "dependant",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,7 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 434.5
   },
   "right": {
     "id": "d217d876c4ecc454",
@@ -83,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-20 15.44.36.excalidraw.md",
+                "file": "DEEPlasma/Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-20 15.44.36.excalidraw.md",
+                "file": "DEEPlasma/Questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-20 15.44.36.excalidraw.md"
+                "file": "DEEPlasma/Questions.md"
               }
             }
           }
@@ -146,44 +183,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1d5364ef12110f9f",
+  "active": "4a10a8c0b048502b",
   "lastOpenFiles": [
+    "Code Docs/Dask On Lumi.md",
+    "Code Docs/Singularity.md",
+    "TSVV1_ACH/Questions.md",
+    "TSVV1_ACH/2024-03-21 Questions.md",
+    "TSVV1_ACH/2024-03-21_after_first_gene_scan.mp4",
+    "MJ Course Turbulance and Transport/Summary Notes.md",
+    "MJ Course Turbulance and Transport/6_NumericalTechniques.pdf",
+    "MJ Course Turbulance and Transport/7_ZonalFlows_BetaRunaway_Quasilinear.pdf",
+    "DEEPlasma/Parameters.md",
+    "TSVV1_ACH/2024-03-21 after first gene scan.md",
+    "Team Meetings - Adam, Amanda, Aaro/2024-04-24.md",
+    "2024-04-24.md",
+    "2024-04-23.md",
+    "DEEPlasma/Presentations/1_Daniel_intro_to_fusion.pdf",
+    "2024-04-12, started working to get enchanted surrogates on lumi with gene.md",
+    "2024-04-15.md",
+    "2024-04-16.md",
+    "2024-04-1.md",
+    "2024-04-03, UQ first growthrate distributions.md",
+    "ICDDPS5/GENEsurrogateICDDPS5_submission.pdf",
+    "ICDDPS5/ICDDPS5 International Conference Data Driven Plasma Science - 5.md",
+    "ICDDPS5/The 5th International Conference on Data-Driven Plasma Science (ICDDPS-5).pdf",
+    "FCAI/AI_day_nordicMeet/template.md",
+    "FCAI/AI_day_nordicMeet",
+    "Untitled",
+    "FCAI",
+    "2024-04-19.md",
+    "2024-04-17.md",
+    "2024-04-18.md",
     "Excalidraw/Drawing 2024-04-20 15.44.36.excalidraw.md",
     "Excalidraw/2024-04-1 2024-04-20 15.06.27.excalidraw.md",
     "Excalidraw/2024-04-1 2024-04-20 15.03.07.excalidraw.md",
-    "DEEPlasma Meetings/Questions.md",
+    "DEEPlasma/Questions.md",
     "Excalidraw/Questions 2024-04-20 15.12.02.excalidraw.md",
     "Excalidraw/Drawing 2024-04-20 14.44.39.excalidraw.md",
     "MJ Course Turbulance and Transport/MJ_TurbulanceMerged.pdf",
-    "Excalidraw/annotated_2024-04-1 2024-04-20 15.03.07.excalidraw.md",
-    "2024-04-1.md",
-    "Excalidraw/2024-04-1 2024-04-20 15.09.04.excalidraw.md",
-    "DEEPlasma Meetings/Drawing 2024-04-20 15.00.50.excalidraw.md",
-    "Excalidraw/cropped_cropped_annotated_Drawing 2024-04-20 14.44.39.excalidraw.md",
-    "Excalidraw/cropped_annotated_Drawing 2024-04-20 14.44.39.excalidraw.md",
-    "Excalidraw/annotated_Drawing 2024-04-20 14.44.39.excalidraw.md",
-    "Excalidraw/cropped_Drawing 2024-04-20 14.44.39.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-20 14.44.58.excalidraw.md",
-    "MJ Course Turbulance and Transport/Summary Notes.md",
-    "Excalidraw",
-    "2024-04-18.md",
-    "2024-04-17.md",
-    "2024-04-16.md",
-    "2024-04-15.md",
-    "2024-04-12.md",
-    "2024-04-11.md",
-    "MJ Course Turbulance and Transport/4_Geometry_InstabilityZoo.pdf",
-    "DEEPlasma Meetings/Presentations/1_Daniel_intro_to_fusion_part2.mp4",
-    "DEEPlasma Meetings/Presentations/2_daniel_intro_to_gene.mp4",
-    "DEEPlasma Meetings/Presentations/2_Daniel_intro_to_gene.pdf",
-    "DEEPlasma Meetings/Presentations/lu108941kdmf7.tmp",
-    "DEEPlasma Meetings/Presentations",
-    "enchanted-surrogates/Questions.md",
-    "2024-04-09.md",
-    "Staff Profile ACH.md",
-    "Code Docs/Singularity.md",
-    "code/container.def~",
-    "code/base_container.sif",
     "A guide to generating probability distributions with neural networks _ by Sam Blake _ HAL24K TechBlog _ Medium_files/2_rQJXQWhxqLF1EnZ23_sXug.png",
     "A guide to generating probability distributions with neural networks _ by Sam Blake _ HAL24K TechBlog _ Medium_files/2_rQJXQWhxqLF1EnZ23_sXug(2).png",
     "A guide to generating probability distributions with neural networks _ by Sam Blake _ HAL24K TechBlog _ Medium_files/2_rQJXQWhxqLF1EnZ23_sXug(1).png",

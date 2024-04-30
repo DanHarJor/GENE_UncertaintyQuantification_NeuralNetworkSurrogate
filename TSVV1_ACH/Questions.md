@@ -1,4 +1,5 @@
-
+### Tobias
+is omega_prec about consistency checks. where you double the numerical resolution and see if the growthrate changes by a precision given by omega_prec?
 ### Tobias
 Initial value solver. We are using the initial value solver. Is the growthrate recorded in the scan.log file the one at the end time of the simulation? 
 
