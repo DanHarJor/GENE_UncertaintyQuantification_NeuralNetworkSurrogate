@@ -4,6 +4,9 @@ Jake used this method to make a surrogate of SEVEN. I got to look into it.
 
 MJ pueschel said maybe we can get an AI to say which eigan modes are relevant because we can't look at them all.
 
+# Regions of High fidelity
+Some instability modes will have little effect on the flux and will dominate certain input space regions. We can create a loss function that prioitises model accuracy at the input space region that affects the flux the most, for example at ion scale ky regions. 
+
 # Get some data from MJ
 One, it seems weird to focus on quasi linear when johanthin citrin has worked a lot on it. 
 
@@ -21,6 +24,22 @@ The current implimentation scans the temperature gradient for ions and electrons
 # Use UQ to generate database for large domain surrogate. 
 
 The UQ uses small surrogates trained within the uncertainty domain around a nominal value. This can generate a distribution of growthrates, (or quantity of interest). You can use the results to get a different distribution for different uncertainty ranges. Then the surrogate can learn to map the inputs and uncertainties to a distribution. Doing it all in one.
+
+## Train an autoencoder and do GPR / SVM / XGBoost on the feature space.
+
+The autoencoder is a neural network that starts with I nodes and goes down to I-N nodes in the middle then finished with I nodes again. Then it is trained so that the output is the same as the input. This allows the I-N nodes in the middle to have a lowerdimensional set of features that represents really well the input. 
+
+If I have a high dimensional space but all points lie on a lower dimensional space then this should remove the redundant dimensionality.
+
+This is similar to PCA. PCA can only find a linear combination of the input dimensions whilst the transformer introduces some non-linearity with the relu function. 
+
+# DO "linear?" interpolation using barycentric co-ordinates of delainy simplex's. 
+
+something like this:
+![[Pasted image 20240703152607.png]]
+
+A simplex is a high dimensional triangle. A delainy simplex has verticies (triangle points) on data points that are nearest neighbour to the points and satisfys some other criteria so there is only one unique set delainy simplex's for a set of points. 
+
 
 
 

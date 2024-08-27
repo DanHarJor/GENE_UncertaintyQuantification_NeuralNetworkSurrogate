@@ -1,0 +1,1 @@
+Today I will go over the poster suggestions and do last minute alterations before submitting to the pin-board. 

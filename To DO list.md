@@ -1,11 +1,10 @@
 # Reading List
 Read Everything
+
+3rd June, Aaro sent me a new list of stuff to read in zulip. The stuff might help link the surrogate to experiment. 
 # Admin Stuff
-Complete on-boarding tutorials
-Get access to vtt free gym
-
-Get a personal locker, repo jyrki
-
+Book flights to US for conference in august
+Prepare for csc summerschool on the 25th
 
 
 

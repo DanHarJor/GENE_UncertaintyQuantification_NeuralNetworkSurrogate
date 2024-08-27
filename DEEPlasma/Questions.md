@@ -1,3 +1,57 @@
+# New Postdoc
+Will you get him to work on getting a saturation rule or help with surrogate modeling?
+# Can I compute the fingerprints without a saturation rule?
+
+since the fingerprints require diffusivity then I should need a quasi-linear approach to compute them.
+
+In the fingerprints paper it mentions that "The	transport	fingerprints,	calculated	from	GENE	simulations,	are	displayed	below.		 The	***local	quasi-linear***	results	for	the	MTM,	are	shown	in	Fig.8."
+
+But in the caption for figure 8 it says "Transport	characteristics	for	***local	linear***	MTM"
+
+Its seems that quasi-linear and linear is being used interchangeably and so potentially any refference to linear gene results does not provide any hope that a saturation rule is not needed. 
+
+# Quasi-linear pedestal simulations already done??
+
+In the finger-prints paper there are quasi-linear GENE simulations of two shots of D-IIID pedestal which provide diffusivities that agree with what is expermentally observed through profile evolution (interpretive transport analysis). 
+
+To me this means there is already a saturation rule and I can validate the linear surrogate model in the same way. 
+# Is local still worth-while even though global finds different dominant instabilities?
+In david hatches paper and the finger prints paper the local simulations show different instabilites than the global ones. "We	now	turn	to	linear	global	simulations	with	GENE;	these	include	the	full	variation	 of	the	pedestal	profiles,	including	the	Er	profile	from	CXS.	***The	only	instabilities	that	 survive	are	the	MTM***	(Fig.10)."
+
+"These	fingerprints	(calculated	from	local quasi-linear	simulations)	are	as	expected,	and	 similar	to	ones	obtained	from	global	linear,	and	nonlinear,	results	(see	section	VII)."
+
+These statements contradict eachother. If in global simulations there are no kbm then why would there still be KBM fingerprints in the global quasi-linear and nonlinear simulations.   
+
+# Is KBM a micro-instability? If do then why does the fingerprints paper call it an MHD-like mode?
+
+MHD is a fluid model and so can only model macro instabilities. Gyrokinetics can theoretically resolve both macro and micro instabilities ALTHOUGH I thought the grothrates that gene outputs are only for micro-instabilities. I also thought it could get a KBM growthrate. So then why is the fingerprints paper calling it an MHD-like mode. 
+
+# Why compute growthrate from potential and not distribution function
+I talked to Joseph and he said that he is making something to compute the growthrate by tracking the changes in the potential as a function of ballooning angle over time. 
+# What is the status of GENE experimental validation?
+
+ - Has non-linear GENE been experimentally validated for both core and pedestal?
+ - What experimental measurements are used to validate it and how?
+ - Is it possible to experimentally validate linear gyro-kinetics? Has linear GENE been validated? How?
+ - Wouldn't it be a little strange to make a linear GENE pedestal *surrogate* **before** linear GENE has been experimentally validated to work for the pedestal? 
+ - A benefit of a surrogate is that the surrogate could be validated against many shots while the original model is too slow and can only be validated against a few.
+# What do you forsee a linear gene surrogate being used for? Why is linear gene not fast enough? 
+
+# David, EV surrogate usefull?
+Do you think a EV solver surrogate would be useful to the community since it is important for subdominant modes and computationally expensive and would it be worth a publication. Or is IV solver enough for the vast majority of use cases?
+
+Would it be useful at a large scale for mode identification or something else?
+
+# Would Automated linear gyro mode identification for mass scale be possible and usefull?
+In the paper doi:10.1088/0029-5515/56/10/104003
+Microtearing turbulence limiting the JET-ILW pedestal D.R. Hatch
+
+David goes through an linear identification of the modes present in the experimental shot at different points along the pedestal and within experimental uncertainty. Is it possible to automate this analysis?
+
+Would it be useful to apply it to an entire campaign using a linear surrogate if gene is too slow? Is such a study credible if linear gene isn't experimentally validated for the pedestal? 
+
+	- to do this we would need to make a gloabl linear gene surrogate, since the paper highlights that there is an important discrepancy between local and global. Should we do this first? 
+
 
 ### David, input deck
 nref, equilibrium electron density 
@@ -27,31 +81,20 @@ Should electron and ion temperature be kept the same and scanned together?
 conclusion: scan the parameters and not the reference values: ensure nothing is computed from the reference values: ensure anything that is dependant on the 
 
 what to do about zeff and tau?
-### Simmo Sarka and Braga
-What Physics informed ML research have you got going on
 
 ### David Hatch
-Can each eiganmode be linked to a particular instability mode? For initial value solver we can find the growthrate at certain values of t. Through various methods we can identify the instability mode causing the density fluctuation amplitude growth.
+Can each eiganmode be linked to a particular instability mode? 
+ANS- yes but I con't know why...
+,For initial value solver we can find the growthrate at certain values of t. Through various methods we can identify the instability mode causing the density fluctuation amplitude growth.
 
 ### David hatch:
-Your parameters file has minor r=1, is this at the seperatrix? why there, isn't the pedestal better captured by r=0.9.
-### David Hatch:  Linear is cheap why surrogate?
-When is linear gene too slow and the community would benifit from a surrogate model?? Not sure what we are trying to achieve with a linear surrogate model as linear GENE is already cheap.
-
-ans Aaro: Linear Gene is still a kinetic model, for real time it is too slow. For large solution space scoping it is also too slow. We need answers instantly.
-
-ans Adam: to make it differentiable, linear gene is fast but it is not differentiable. It is nice to have a differentiable function to explore the parameter space and identify places where a non-linear gene run should be made. 
-
-just focus on making a super fast linear GENE for now.
+Your parameters file has minor r=1, is this at the seperatrix? why there, isn't the pedestal better captured by r=0.9. answered in slack I think.
 
 ### David Hatch: Standard Quasi Linear Derivation
 Is there a good derivation for the quasi-linear heat transfer equation or is dimensional analysis all we got?
 
 ### Discussion Point: Qualikiz
 By trying to do the standard quasilinear and surrogate it are we not just doing a poorer version of Qualikiz. Maybe Qualikiz is only for core and doesn't go into the pedestool.
-
-### Discussion Point: GENE Pedestal Surrogate before experimental validation,
-Seems strange to do a GENE surrogate of the pedestal before people have verified that GENE matches experiment in the pedestal. 
 
 ### Open, Answered in MJ course
 What physics problems are researches interested in using GENE / Linear GENE, for apart from heat transport? 

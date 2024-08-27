@@ -1,0 +1,1 @@
+Discussion with Tobias and Ionuts on email for how to solve the omega-prec problem and simple implimentation of increasing to 1e-5 implimented for UQ. 

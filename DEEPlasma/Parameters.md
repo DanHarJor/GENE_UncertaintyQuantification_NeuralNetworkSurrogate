@@ -1,3 +1,18 @@
+# Search Space Classification
+To save compute we would like to split the domain into ['stable', 'non-stable-physically-viable', 'non-stable-not-physically-viable']
+
+'non-stable-not-physically-viable' splits into:
+ 1. KBM threshold limit reached. This could be identified with the mode identification tool (fingerprints) and then all KBM regions could be avoided with the classifier.
+ 2. 'High eta' ie steep temperature gradient but not steep density gradient. 
+ 3. Artificial modes (These could be masking some real physical modes, perhaps I need an eigan value solver to get to the real physical modes)
+ [WE COULD POTENTIALLY USE SVM TO FIND THE DECISION BOUNDARY AND SAMPLE NEAR THE BOUNDARY TO GNERATE MORE DATA TO BETTER RESOLVE THE BOUNDARY]
+
+We then want to regress through the non-stable-physically-viable space so we want to sample a lot of data in that region. 
+
+Some regions are not physically viable because they have an extreamly high growthrate and the profile would never evolve to have gradients that drive such instabilities because the transport would instantly relax the profile. If I am operating in a space that matches an experiment then I can look for the maximum gradients reached and limit the space to slightly beyond that. If I am trying to simulate ITER, where there are no experiments, then this boundary will need to be learned. **Not sure how to do that.** Aaro thinks I shouldn't focus on a hard boundary but try to softly deter the active learning from exploring the not physically possible space. 
+
+# GENE Input Deck
+
 David sent me this parameters file for miller geometry.  
 Is there are reason that it is using the initial value solver over the eiganvalue solver?
 

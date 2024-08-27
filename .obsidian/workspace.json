@@ -4,57 +4,105 @@
     "type": "split",
     "children": [
       {
-        "id": "9f4edee3f6de5c89",
+        "id": "16a06b8de11df2f8",
         "type": "tabs",
         "children": [
           {
-            "id": "7464982bd83b8d5e",
+            "id": "5e73fb811cc9945b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TSVV1_ACH/Questions.md",
+                "file": "DEEPlasma/Paper Ideas.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6825efeca9e42eed",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "MJ Course Turbulance and Transport/6_NumericalTechniques.pdf"
-              }
-            }
-          },
-          {
-            "id": "3666add27a854289",
+            "id": "2f616c28f0282533",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code Docs/Singularity.md",
+                "file": "DEEPlasma/Q-Answers.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4a10a8c0b048502b",
+            "id": "768f1a9086afcd73",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DEEPlasma/Questions.md",
+                "file": "ASCOT/TODO.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "655e71beacd8b8fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-07-17-UQomnAdded-redoUQ.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "49e76c4176a9f08f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DEEPlasma/PaperNotes-ModeClassificationAtSpeed.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "615346e5f34957c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TSVV1_ACH/SensitivityAnalysis/Sobol Indicies.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1e93daca2cc1696a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DEEPlasma/PaperStoriesSummarised/Justin Walker - ETG turbulence in a tokamak pedestal -PoP 2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4a215c09e5d5c04f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20240731194828.png"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -120,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DEEPlasma/Questions.md",
+                "file": "DEEPlasma/PaperStoriesSummarised/Justin Walker - ETG turbulence in a tokamak pedestal -PoP 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DEEPlasma/Questions.md",
+                "file": "DEEPlasma/PaperStoriesSummarised/Justin Walker - ETG turbulence in a tokamak pedestal -PoP 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DEEPlasma/Questions.md"
+                "file": "DEEPlasma/PaperStoriesSummarised/Justin Walker - ETG turbulence in a tokamak pedestal -PoP 2023.md"
               }
             }
           }
@@ -183,53 +231,52 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4a10a8c0b048502b",
+  "active": "1e93daca2cc1696a",
   "lastOpenFiles": [
-    "Code Docs/Dask On Lumi.md",
-    "Code Docs/Singularity.md",
-    "TSVV1_ACH/Questions.md",
-    "TSVV1_ACH/2024-03-21 Questions.md",
-    "TSVV1_ACH/2024-03-21_after_first_gene_scan.mp4",
-    "MJ Course Turbulance and Transport/Summary Notes.md",
-    "MJ Course Turbulance and Transport/6_NumericalTechniques.pdf",
-    "MJ Course Turbulance and Transport/7_ZonalFlows_BetaRunaway_Quasilinear.pdf",
+    "DEEPlasma/PaperNotes-ModeClassificationAtSpeed.md",
+    "DEEPlasma/Paper Ideas.md",
+    "DEEPlasma/PaperStoriesSummarised/Justin Walker - ETG turbulence in a tokamak pedestal -PoP 2023.md",
+    "Pasted image 20240827111610.png",
+    "DEEPlasma/PaperStoriesSummarised",
+    "2024-08-23-Admin-noteOrginisation-UQ.md",
+    "References/Walker+Hatch2023.md",
+    "References/Transport+NaN.md",
+    "References/Mhd+EditorsNaN.md",
+    "References/Divertor+NaN.md",
+    "References/Drive+EditorsNaN.md",
+    "References/Diagnostics+EditorsNaN.md",
+    "References/Mhd+NaN.md",
+    "References/Editors+NaN.md",
+    "TSVV1_ACH/Precision Adaptation.md",
+    "Pasted image 20240731194828.png",
+    "DEEPlasma/Numerical Instabilities.md",
+    "2024-08-22-pedPhysCoffee-NonPhysicalRegion.md",
+    "2024-08-21-firstpaper.md",
+    "2024-07-23-walltime-feature?.md",
+    "2024-08-20-reading-UQ.md",
+    "TSVV1_ACH/SensitivityAnalysis/Sobol Indicies.md",
+    "2024-07-31-sensitivity-sobol-indicies.md",
     "DEEPlasma/Parameters.md",
-    "TSVV1_ACH/2024-03-21 after first gene scan.md",
-    "Team Meetings - Adam, Amanda, Aaro/2024-04-24.md",
-    "2024-04-24.md",
-    "2024-04-23.md",
-    "DEEPlasma/Presentations/1_Daniel_intro_to_fusion.pdf",
-    "2024-04-12, started working to get enchanted surrogates on lumi with gene.md",
-    "2024-04-15.md",
-    "2024-04-16.md",
-    "2024-04-1.md",
-    "2024-04-03, UQ first growthrate distributions.md",
-    "ICDDPS5/GENEsurrogateICDDPS5_submission.pdf",
-    "ICDDPS5/ICDDPS5 International Conference Data Driven Plasma Science - 5.md",
-    "ICDDPS5/The 5th International Conference on Data-Driven Plasma Science (ICDDPS-5).pdf",
-    "FCAI/AI_day_nordicMeet/template.md",
-    "FCAI/AI_day_nordicMeet",
-    "Untitled",
-    "FCAI",
-    "2024-04-19.md",
-    "2024-04-17.md",
-    "2024-04-18.md",
-    "Excalidraw/Drawing 2024-04-20 15.44.36.excalidraw.md",
-    "Excalidraw/2024-04-1 2024-04-20 15.06.27.excalidraw.md",
-    "Excalidraw/2024-04-1 2024-04-20 15.03.07.excalidraw.md",
-    "DEEPlasma/Questions.md",
-    "Excalidraw/Questions 2024-04-20 15.12.02.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-20 14.44.39.excalidraw.md",
-    "MJ Course Turbulance and Transport/MJ_TurbulanceMerged.pdf",
+    "UNIPDFusionClassSlides.pdf",
+    "Untitled 1.md",
+    "PhD/PhD Research Plan.md",
+    "References/Hornsby+2024.md",
+    "2024-08-19-Admin.md",
+    "Pasted image 20240731194900.png",
+    "TSVV1_ACH/Untitled",
+    "TSVV1_ACH/SensitivityAnalysis",
+    "TSVV1_ACH/StaticSparseGrids",
+    "MJ Course Turbulance and Transport/4_Geometry_InstabilityZoo.pdf",
+    "Pasted image 20240717103810.png",
+    "DailyAchievments/6June",
+    "MJ Course Turbulance and Transport/7_ZonalFlows_BetaRunaway_Quasilinear.pdf",
+    "MJ Course Turbulance and Transport/8_QuasiLinear_Transport_Applications.pdf",
+    "MJ Course Turbulance and Transport/3_Kinetics_Fluid_Models.pdf",
+    "Pasted image 20240703152607.png",
     "A guide to generating probability distributions with neural networks _ by Sam Blake _ HAL24K TechBlog _ Medium_files/2_rQJXQWhxqLF1EnZ23_sXug.png",
     "A guide to generating probability distributions with neural networks _ by Sam Blake _ HAL24K TechBlog _ Medium_files/2_rQJXQWhxqLF1EnZ23_sXug(2).png",
     "A guide to generating probability distributions with neural networks _ by Sam Blake _ HAL24K TechBlog _ Medium_files/2_rQJXQWhxqLF1EnZ23_sXug(1).png",
     "A guide to generating probability distributions with neural networks _ by Sam Blake _ HAL24K TechBlog _ Medium_files/1_wHYBbpf6TP-3xUz3X9p-LA.png",
-    "A guide to generating probability distributions with neural networks _ by Sam Blake _ HAL24K TechBlog _ Medium_files/1_uNyD4yNMH-DnOel1wzxOOA.png",
-    "A guide to generating probability distributions with neural networks _ by Sam Blake _ HAL24K TechBlog _ Medium_files/1_swd_PY6vTCyPnsgBYoFZfA.png",
-    "A guide to generating probability distributions with neural networks _ by Sam Blake _ HAL24K TechBlog _ Medium_files/1_qVvCKsTqMRrwj8BPdCUDkw.png",
-    "A guide to generating probability distributions with neural networks _ by Sam Blake _ HAL24K TechBlog _ Medium_files/1_pippg32_cGOr3zwRq__Ncw@2x.jpg",
-    "A guide to generating probability distributions with neural networks _ by Sam Blake _ HAL24K TechBlog _ Medium_files/1_pY0wOPTFpoqQ_f17pIMUXw.jpg",
-    "A guide to generating probability distributions with neural networks _ by Sam Blake _ HAL24K TechBlog _ Medium_files/1_nhOXvxyIY2hpWT2PmZu3QQ.png"
+    "A guide to generating probability distributions with neural networks _ by Sam Blake _ HAL24K TechBlog _ Medium_files/1_uNyD4yNMH-DnOel1wzxOOA.png"
   ]
 }

@@ -1,0 +1,4 @@
+Today I read about neural operators which are neural networks that can take a function as an input and output a function. They blow up the input to a large feature space. They use an integral as the linear part of the operation and a modified activation function for the non-linear part. It can be used to solve PDE where the initial condition is the input and the solution of the next time step is the output. It has been shown that the trained neural network can then make predictions for different resolutions, grid geometries, spaces. It is said that it learns the mapping between two infinite dimensional spaces. I believe the training data has finite input and output but because you can alter the positions you would like to input and infer it is said to be an infinite dimensional mapping.
+
+https://doi.org/10.48550/ARXIV.2010.08895
+https://doi.org/10.48550/ARXIV.2003.03485

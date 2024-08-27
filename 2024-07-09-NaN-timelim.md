@@ -1,0 +1,1 @@
+I worked to resolve the NaN issue. The main problem was that the simulation time limits (timelim and simtimelim) were too small. So they are now set to the sbatch wallclock time limit wich is essention no limitation. Testing still needs to be done for DEEPlasma sized datasets, 5000, 6 parameters, pedestal config.  

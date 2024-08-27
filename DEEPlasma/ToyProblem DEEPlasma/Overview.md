@@ -7,9 +7,7 @@ He then plots various GENE input parameters and one output parameters against th
 He then takes the simulation inputs and one output and uses it to compute the heat flux from the model and compares it with that of the non linear GENE simulations.
 
 
-Hello David, I know you are busy today. Just reply to this at your earliest convenience. I am looking at the toy problem we discussed and have a few questions.
 
-First of all, since no direction has been specified for the heat fluxes being discussed I assume it is the heat flux radiating outward from the toroid. 
 
 My understanding of the toy problem is that we want to compute the outward heat-flux from the pedestal due to a specific instability that is a major player in the pedestal.
 
