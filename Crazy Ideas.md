@@ -3,6 +3,11 @@
 
 normalising flows is used to go from a simple distribution to a complex distribution. Perhaps it could be used to go from an initial distribution to another distribution just advanced in time. 
 
+
+# Normalizing Flows To make a model that takes inputs as uncertianty distributions and outputs the uncertainty distribution of the output parameter???
+ 
+
+
 # Data cleaning to get surrogate better than parent model
 [[2024-02-06>09#crazy idea|tarvaniemi]]
 I learned that many of these codes produce unrealistic results, including SOLPS and GENE. 

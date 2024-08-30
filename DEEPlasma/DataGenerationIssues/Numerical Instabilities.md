@@ -16,5 +16,15 @@ Joeseph Michael Schmit
 Yeah, currently working on numerical instability checker and haven't found a quick, algorithmic way to check except by visual inspection.
 _______
 
+# question to Tobias about detecting Numerical Instabilities
+
+Tobias:
+> 1st Question: Do you think a convergence check like this is sufficient for ensuring you do not have any Numerical Instabilities? My understanding is that these can be caused by lack of resolution.
+
+Numerical instabilities would usually show up as rather violent instabilities (e.g., extremely large growth rate) or curious mode structures (grid-scale oscillations). Excluding the former is easy, the latter should still be visible by growth rate / frequency changes with resolution.
+
+> 2nd Question: When increasing the resolution is it necessary to compute from scratch? or is it possible to somehow use the previous low-res run and "fill in the gaps" to increase the resolution.
+
+That depends on the code capabilities. GENE is able to read+interpolate its own checkpoints but does not support changes of grid sizes (lx,lv,lw, etc). In other words, resolution checks are supported but not grid convergence checks.
 
 

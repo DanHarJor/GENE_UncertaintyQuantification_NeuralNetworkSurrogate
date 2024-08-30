@@ -1,3 +1,16 @@
+Aaro's Approach to Paper Writing
+
+Make slides to tell the story. 
+Title = Main Message
+Figure
+3 bullets for main take aways
+
+"you can write a paper in a day by taking the slides, one paragraph each of the title and 3 bullets and then the same figure". Total of 5ish figures, so 5 slides. 
+# Introduction
+
+There are many issues to consider when running Gyrokinetic simulations. Resolution, convergence checks, stable regions taking forever, numerical instability detection...
+
+If these are all handled in an expert way to generate the training database for the surrogate model then the responsibility is taken away from the users and high quality runs are readily available to the community.
 
 # Possible Modes:
 Macro Instabilities

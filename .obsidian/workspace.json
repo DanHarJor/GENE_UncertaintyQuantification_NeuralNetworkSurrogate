@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DEEPlasma/Paper Ideas.md",
+                "file": "DEEPlasma/DataGenerationIssues/Variable Resolution.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-07-17-UQomnAdded-redoUQ.md",
+                "file": "DailyAchievments/7July/2024-07-17-UQomnAdded-redoUQ.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DEEPlasma/PaperNotes-ModeClassificationAtSpeed.md",
+                "file": "DEEPlasma/DataGenerationIssues/Active Sampling Techniques.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DEEPlasma/PaperStoriesSummarised/Justin Walker - ETG turbulence in a tokamak pedestal -PoP 2023.md",
+                "file": "Crazy Ideas.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,12 +97,12 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Pasted image 20240731194828.png"
+                "file": "Pasted Images/Pasted image 20240731194828.png"
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -131,7 +131,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dependant",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DEEPlasma/PaperStoriesSummarised/Justin Walker - ETG turbulence in a tokamak pedestal -PoP 2023.md",
+                "file": "DEEPlasma/DataGenerationIssues/Active Sampling Techniques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DEEPlasma/PaperStoriesSummarised/Justin Walker - ETG turbulence in a tokamak pedestal -PoP 2023.md",
+                "file": "DEEPlasma/DataGenerationIssues/Active Sampling Techniques.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DEEPlasma/PaperStoriesSummarised/Justin Walker - ETG turbulence in a tokamak pedestal -PoP 2023.md"
+                "file": "DEEPlasma/DataGenerationIssues/Active Sampling Techniques.md"
               }
             }
           }
@@ -231,48 +231,49 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1e93daca2cc1696a",
+  "active": "49e76c4176a9f08f",
   "lastOpenFiles": [
-    "DEEPlasma/PaperNotes-ModeClassificationAtSpeed.md",
-    "DEEPlasma/Paper Ideas.md",
-    "DEEPlasma/PaperStoriesSummarised/Justin Walker - ETG turbulence in a tokamak pedestal -PoP 2023.md",
-    "Pasted image 20240827111610.png",
-    "DEEPlasma/PaperStoriesSummarised",
-    "2024-08-23-Admin-noteOrginisation-UQ.md",
-    "References/Walker+Hatch2023.md",
-    "References/Transport+NaN.md",
-    "References/Mhd+EditorsNaN.md",
-    "References/Divertor+NaN.md",
-    "References/Drive+EditorsNaN.md",
-    "References/Diagnostics+EditorsNaN.md",
-    "References/Mhd+NaN.md",
-    "References/Editors+NaN.md",
-    "TSVV1_ACH/Precision Adaptation.md",
-    "Pasted image 20240731194828.png",
-    "DEEPlasma/Numerical Instabilities.md",
-    "2024-08-22-pedPhysCoffee-NonPhysicalRegion.md",
-    "2024-08-21-firstpaper.md",
-    "2024-07-23-walltime-feature?.md",
-    "2024-08-20-reading-UQ.md",
+    "DEEPlasma/DataGenerationIssues/Initial Sampling Techniques.md",
+    "DEEPlasma/DataGenerationIssues/Active Sampling Techniques.md",
+    "TSVV1_ACH/SensitivityAnalysis/Game Theory.md",
     "TSVV1_ACH/SensitivityAnalysis/Sobol Indicies.md",
-    "2024-07-31-sensitivity-sobol-indicies.md",
-    "DEEPlasma/Parameters.md",
-    "UNIPDFusionClassSlides.pdf",
+    "TSVV1_ACH/2024-03-21 after first gene scan.md",
+    "DEEPlasma/DataGenerationIssues/Filling The Space.md",
+    "DEEPlasma/Model Uncertainty - No Test Data.md",
+    "ConferencesWorkshops/ICDDPS5/Notes During Conference.md",
+    "DEEPlasma/PaperNotes-ModeClassificationAtSpeed.md",
+    "DEEPlasma/PaperStoriesSummarised/Justin Walker - ETG turbulence in a tokamak pedestal -PoP 2023.md",
+    "DEEPlasma/DataGenerationIssues/Variable Resolution.md",
+    "DEEPlasma/DataGenerationIssues/Stable Runs Lasting Forever.md",
+    "DEEPlasma/DataGenerationIssues/Numerical Instabilities.md",
+    "DEEPlasma/DataGenerationIssues",
     "Untitled 1.md",
-    "PhD/PhD Research Plan.md",
-    "References/Hornsby+2024.md",
-    "2024-08-19-Admin.md",
-    "Pasted image 20240731194900.png",
+    "Untitled 3.md",
+    "Untitled 2.md",
+    "Pasted Images/Pasted image 20240703152607.png",
+    "Untitled.md",
+    "Pasted Images",
+    "DailyAchievments/August/2024-08-01.md",
+    "DailyAchievments/Untitled.md",
+    "DailyAchievments/August",
+    "DailyAchievments/7July/2024-07-08, reading, neural operators.md",
+    "DailyAchievments/7July",
+    "DEEPlasma/Paper Ideas.md",
+    "DEEPlasma/Q-Answers.md",
+    "ASCOT/TODO.md",
+    "DailyAchievments/7July/2024-07-17-UQomnAdded-redoUQ.md",
+    "Crazy Ideas.md",
+    "Good Ideas.md",
+    "Pasted Images/Pasted image 20240827111610.png",
+    "DEEPlasma/PaperStoriesSummarised",
+    "Pasted Images/Pasted image 20240731194828.png",
+    "UNIPDFusionClassSlides.pdf",
+    "Pasted Images/Pasted image 20240731194900.png",
     "TSVV1_ACH/Untitled",
     "TSVV1_ACH/SensitivityAnalysis",
     "TSVV1_ACH/StaticSparseGrids",
     "MJ Course Turbulance and Transport/4_Geometry_InstabilityZoo.pdf",
-    "Pasted image 20240717103810.png",
-    "DailyAchievments/6June",
-    "MJ Course Turbulance and Transport/7_ZonalFlows_BetaRunaway_Quasilinear.pdf",
-    "MJ Course Turbulance and Transport/8_QuasiLinear_Transport_Applications.pdf",
-    "MJ Course Turbulance and Transport/3_Kinetics_Fluid_Models.pdf",
-    "Pasted image 20240703152607.png",
+    "Pasted Images/Pasted image 20240717103810.png",
     "A guide to generating probability distributions with neural networks _ by Sam Blake _ HAL24K TechBlog _ Medium_files/2_rQJXQWhxqLF1EnZ23_sXug.png",
     "A guide to generating probability distributions with neural networks _ by Sam Blake _ HAL24K TechBlog _ Medium_files/2_rQJXQWhxqLF1EnZ23_sXug(2).png",
     "A guide to generating probability distributions with neural networks _ by Sam Blake _ HAL24K TechBlog _ Medium_files/2_rQJXQWhxqLF1EnZ23_sXug(1).png",
