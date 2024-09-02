@@ -1127,6 +1127,42 @@
       "relations": {},
       "dateAdded": "2024-08-26T06:16:15Z",
       "dateModified": "2024-08-26T06:16:15Z"
+    },
+    {
+      "key": "3YB5J9II",
+      "version": 63,
+      "itemType": "book",
+      "title": "The Characteristics of Electrical Discharges in Magnetic Fields",
+      "creators": [
+        {"creatorType": "author", "firstName": "A", "lastName": "Guthrie"},
+        {"creatorType": "author", "firstName": "R.K.", "lastName": "Wakerling"}
+      ],
+      "abstractNote": "",
+      "series": "",
+      "seriesNumber": "",
+      "volume": "",
+      "numberOfVolumes": "",
+      "edition": "",
+      "place": "",
+      "publisher": "",
+      "date": "",
+      "numPages": "",
+      "language": "",
+      "ISBN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": ["BQKZWP24"],
+      "relations": {},
+      "dateAdded": "2024-09-01T19:38:25Z",
+      "dateModified": "2024-09-01T19:39:13Z"
     }
   ],
   "collections": [
@@ -1167,5 +1203,5 @@
     }
   ],
   "name": "PedestalReadingClub",
-  "version": 58
+  "version": 63
 }

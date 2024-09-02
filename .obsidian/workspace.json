@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DEEPlasma/DataGenerationIssues/Active Sampling Techniques.md",
+                "file": "TSVV1_ACH/StaticSparseGrids/Brute Force Surrogate UQ AND Sparse Grid UQ.md",
                 "mode": "source",
                 "source": false
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DEEPlasma/DataGenerationIssues/Active Sampling Techniques.md",
+                "file": "TSVV1_ACH/StaticSparseGrids/Brute Force Surrogate UQ AND Sparse Grid UQ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DEEPlasma/DataGenerationIssues/Active Sampling Techniques.md",
+                "file": "TSVV1_ACH/StaticSparseGrids/Brute Force Surrogate UQ AND Sparse Grid UQ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DEEPlasma/DataGenerationIssues/Active Sampling Techniques.md"
+                "file": "TSVV1_ACH/StaticSparseGrids/Brute Force Surrogate UQ AND Sparse Grid UQ.md"
               }
             }
           }
@@ -233,8 +233,18 @@
   },
   "active": "49e76c4176a9f08f",
   "lastOpenFiles": [
-    "DEEPlasma/DataGenerationIssues/Initial Sampling Techniques.md",
+    "TSVV1_ACH/Performance_Needed_For_UQ_email.pdf",
+    "TSVV1_ACH/StaticSparseGrids/Brute Force Surrogate UQ AND Sparse Grid UQ.md",
+    "TSVV1_ACH/ML-surrogate and SSG-poly Performance Required For Reliable UQ.md",
+    "TSVV1_ACH/Unconfirmed 716875.crdownload",
+    "TSVV1_ACH/Precision Adaptation.md",
+    "TSVV1_ACH/Questions.md",
+    "Pasted Images/Pasted image 20240717103810.png",
+    "Pasted Images/Pasted image 20240703152607.png",
+    "DEEPlasma/DataGenerationIssues/Variable Resolution.md",
     "DEEPlasma/DataGenerationIssues/Active Sampling Techniques.md",
+    "References/Guthrie+Wakerling.md",
+    "DEEPlasma/DataGenerationIssues/Initial Sampling Techniques.md",
     "TSVV1_ACH/SensitivityAnalysis/Game Theory.md",
     "TSVV1_ACH/SensitivityAnalysis/Sobol Indicies.md",
     "TSVV1_ACH/2024-03-21 after first gene scan.md",
@@ -243,14 +253,12 @@
     "ConferencesWorkshops/ICDDPS5/Notes During Conference.md",
     "DEEPlasma/PaperNotes-ModeClassificationAtSpeed.md",
     "DEEPlasma/PaperStoriesSummarised/Justin Walker - ETG turbulence in a tokamak pedestal -PoP 2023.md",
-    "DEEPlasma/DataGenerationIssues/Variable Resolution.md",
     "DEEPlasma/DataGenerationIssues/Stable Runs Lasting Forever.md",
     "DEEPlasma/DataGenerationIssues/Numerical Instabilities.md",
     "DEEPlasma/DataGenerationIssues",
     "Untitled 1.md",
     "Untitled 3.md",
     "Untitled 2.md",
-    "Pasted Images/Pasted image 20240703152607.png",
     "Untitled.md",
     "Pasted Images",
     "DailyAchievments/August/2024-08-01.md",
@@ -258,12 +266,6 @@
     "DailyAchievments/August",
     "DailyAchievments/7July/2024-07-08, reading, neural operators.md",
     "DailyAchievments/7July",
-    "DEEPlasma/Paper Ideas.md",
-    "DEEPlasma/Q-Answers.md",
-    "ASCOT/TODO.md",
-    "DailyAchievments/7July/2024-07-17-UQomnAdded-redoUQ.md",
-    "Crazy Ideas.md",
-    "Good Ideas.md",
     "Pasted Images/Pasted image 20240827111610.png",
     "DEEPlasma/PaperStoriesSummarised",
     "Pasted Images/Pasted image 20240731194828.png",
@@ -271,9 +273,6 @@
     "Pasted Images/Pasted image 20240731194900.png",
     "TSVV1_ACH/Untitled",
     "TSVV1_ACH/SensitivityAnalysis",
-    "TSVV1_ACH/StaticSparseGrids",
-    "MJ Course Turbulance and Transport/4_Geometry_InstabilityZoo.pdf",
-    "Pasted Images/Pasted image 20240717103810.png",
     "A guide to generating probability distributions with neural networks _ by Sam Blake _ HAL24K TechBlog _ Medium_files/2_rQJXQWhxqLF1EnZ23_sXug.png",
     "A guide to generating probability distributions with neural networks _ by Sam Blake _ HAL24K TechBlog _ Medium_files/2_rQJXQWhxqLF1EnZ23_sXug(2).png",
     "A guide to generating probability distributions with neural networks _ by Sam Blake _ HAL24K TechBlog _ Medium_files/2_rQJXQWhxqLF1EnZ23_sXug(1).png",

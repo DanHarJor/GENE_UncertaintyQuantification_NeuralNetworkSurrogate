@@ -1,3 +1,17 @@
+
+I will start putting the meeting agenda in the Calendar.  
+  
+Current Topics to Discuss  
+Next meeting I would like to ask if I can make my Git Repo public. It is called GENE_UQ, so maybe I should change the name before I make it public...? If I make it public then I can have a WiKi which might be useful to keep a log of what has been done and organise the direction of the project.
+
+  
+
+More topics will be posted here as they come up.   
+  
+Best,
+
+Daniel
+___
 ### Tobias - Resource Allocation
 When playing with gene I often got an error when the number of MPI processes didn't exactly match the number of tasks requested in sbatch.
 
