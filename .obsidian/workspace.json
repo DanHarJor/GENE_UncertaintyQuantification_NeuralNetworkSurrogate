@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TSVV1_ACH/StaticSparseGrids/Brute Force Surrogate UQ AND Sparse Grid UQ.md",
+                "file": "TSVV1_ACH/GPR/Kernel.md",
                 "mode": "source",
                 "source": false
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TSVV1_ACH/StaticSparseGrids/Brute Force Surrogate UQ AND Sparse Grid UQ.md",
+                "file": "TSVV1_ACH/GPR/Kernel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TSVV1_ACH/StaticSparseGrids/Brute Force Surrogate UQ AND Sparse Grid UQ.md",
+                "file": "TSVV1_ACH/GPR/Kernel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TSVV1_ACH/StaticSparseGrids/Brute Force Surrogate UQ AND Sparse Grid UQ.md"
+                "file": "TSVV1_ACH/GPR/Kernel.md"
               }
             }
           }
@@ -233,9 +233,12 @@
   },
   "active": "49e76c4176a9f08f",
   "lastOpenFiles": [
-    "TSVV1_ACH/Performance_Needed_For_UQ_email.pdf",
-    "TSVV1_ACH/StaticSparseGrids/Brute Force Surrogate UQ AND Sparse Grid UQ.md",
+    "TSVV1_ACH/GPR",
+    "TSVV1_ACH/Brute Force Surrogate UQ AND Sparse Grid UQ.md",
+    "TSVV1_ACH/GPR/Kernel.md",
     "TSVV1_ACH/ML-surrogate and SSG-poly Performance Required For Reliable UQ.md",
+    "TSVV1_ACH/Test Problems For SG++.md",
+    "TSVV1_ACH/Performance_Needed_For_UQ_email.pdf",
     "TSVV1_ACH/Unconfirmed 716875.crdownload",
     "TSVV1_ACH/Precision Adaptation.md",
     "TSVV1_ACH/Questions.md",
@@ -262,16 +265,13 @@
     "Untitled.md",
     "Pasted Images",
     "DailyAchievments/August/2024-08-01.md",
-    "DailyAchievments/Untitled.md",
     "DailyAchievments/August",
-    "DailyAchievments/7July/2024-07-08, reading, neural operators.md",
     "DailyAchievments/7July",
     "Pasted Images/Pasted image 20240827111610.png",
     "DEEPlasma/PaperStoriesSummarised",
     "Pasted Images/Pasted image 20240731194828.png",
     "UNIPDFusionClassSlides.pdf",
     "Pasted Images/Pasted image 20240731194900.png",
-    "TSVV1_ACH/Untitled",
     "TSVV1_ACH/SensitivityAnalysis",
     "A guide to generating probability distributions with neural networks _ by Sam Blake _ HAL24K TechBlog _ Medium_files/2_rQJXQWhxqLF1EnZ23_sXug.png",
     "A guide to generating probability distributions with neural networks _ by Sam Blake _ HAL24K TechBlog _ Medium_files/2_rQJXQWhxqLF1EnZ23_sXug(2).png",
