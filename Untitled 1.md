@@ -1,3 +1,8 @@
+ 
+
+
+
+
 aaro constructive critisism
 
 1. Sometimes you beat around the bush and dodge a question. Its a classic tactic to avoid confrontation. For example when I suggested about making slides for the first physics coffee meeting you avoided encouraging the slides and also didn't say you don't think the slides are necessary. SO I am left guessing. I am learning to understand in finland when someone is deploying this tactic and then I know that they disaggree with me but it isn't necessary. Sometimes it is simpler to be direct. I don't think the sides are necessary Daniel, but if you think they are important I won't oppose it. Is an example of what you could have said. Stating your oppinion directly and politely without me having to guess if you disagree or not. If you don't tell me you disagree I can never be sure. For more important things you have just said your oppinion so I guess it doesn't matter too much. 

@@ -4,6 +4,8 @@ Jake used this method to make a surrogate of SEVEN. I got to look into it.
 
 MJ pueschel said maybe we can get an AI to say which eigan modes are relevant because we can't look at them all.
 
+# Try fixed grid ky vs random sampling for a small UQ space
+
 # Regions of High fidelity
 Some instability modes will have little effect on the flux and will dominate certain input space regions. We can create a loss function that prioitises model accuracy at the input space region that affects the flux the most, for example at ion scale ky regions. 
 

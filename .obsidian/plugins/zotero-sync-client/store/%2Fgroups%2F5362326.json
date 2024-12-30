@@ -3059,6 +3059,59 @@
       "relations": {},
       "dateAdded": "2024-03-22T12:28:12Z",
       "dateModified": "2024-03-22T12:28:12Z"
+    },
+    {
+      "key": "P24WXJP9",
+      "version": 152,
+      "parentItem": "HUANKIQU",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Notes on equilibrium.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Notes on equilibrium.pdf",
+      "md5": "b3b51e3f9cfb841246e3ac2ea50be028",
+      "mtime": 1730373962000,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2024-10-31T11:26:02Z",
+      "dateModified": "2024-10-31T11:26:02Z"
+    },
+    {
+      "key": "HUANKIQU",
+      "version": 150,
+      "itemType": "book",
+      "title": "Notes on equilibrium",
+      "creators": [],
+      "abstractNote": "",
+      "series": "",
+      "seriesNumber": "",
+      "volume": "",
+      "numberOfVolumes": "",
+      "edition": "",
+      "place": "",
+      "publisher": "",
+      "date": "",
+      "numPages": "",
+      "language": "",
+      "ISBN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": ["4GVSEKI6"],
+      "relations": {},
+      "dateAdded": "2024-10-31T11:25:47Z",
+      "dateModified": "2024-10-31T11:25:51Z"
     }
   ],
   "collections": [
@@ -3131,5 +3184,5 @@
     }
   ],
   "name": "GENE_AI",
-  "version": 148
+  "version": 153
 }

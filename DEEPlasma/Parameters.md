@@ -1,3 +1,18 @@
+
+![[Pasted image 20240912161437.png]]
+
+![[parameters_note.jpg]]
+
+# omt and omn connection
+Physically omt and omn are rarely very different in tokamaks. A high omt and low omn causes crazy ETG that would eject lots of heat and stabilise lower the gradient to stabilise the ETG, thus would never physically exist in a reactor.
+
+To get around this we can sample omn and the omn / e_omt ratio. Then we can see what ratios are experimentally observed and stay in that range. 
+
+maybe do the same for ne and Te, (nref, tref)
+# Ti/Te
+Jet Shot
+![[shotTi.png]]
+
 # Search Space Classification
 To save compute we would like to split the domain into ['stable', 'non-stable-physically-viable', 'non-stable-not-physically-viable']
 
@@ -70,7 +85,8 @@ otherwise, any other value can be chosen in order to study Shafranov shift effec
 
 I suggest changing this to -1 to make it consistent with other parameters and avoid doing to calculation myself.
 
-  
+new parameters to scan:
+alpha_MHD and collisionality
 
 **Parameter Dependencies:**
 
@@ -88,8 +104,8 @@ _tau:_ This is also dependant on other specified parameters. tau = Zeff*Te/Ti,�
 _  
 trpeps:_ trpeps [real 0.0]: inverse aspect ratio at the flux tube position, ϵ = r/R. This confuses me since the aspect ratio is supposed to change for each device not flux tube position. I would guess that the tokamak minor radius r is exchanged for the flux tube radial position when computing aspect ratio. This is dependant on the parameters x0 and R. I suggest trpeps is calculated.
 
-  
-
 **Mag Geometry**
+
+Should be computed with Helena with the density and temperature profiles.
 
 I would like the surrogate to take as input the magnetic equilibrium. For now the miller geometry you sent will be used.

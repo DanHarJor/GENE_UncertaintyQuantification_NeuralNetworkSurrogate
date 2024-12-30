@@ -1,0 +1,2 @@
+–1. (2 pts) Calculate the electron plasma frequency, electron gyro frequency, Debye length, and plasma parameter for the following plasmas (note the units!) (a) Ionosphere at 300 km altitude: Te ≈ 0.1 eV, ne ≈ 106 cm−3 , B ≈ 50000 nT (b) Solar wind at 1 AU: Te ≈ 10 eV, ne ≈ 10 cm−3 , B ≈ 5 nT (c) Core of the Sun: Te ≈ 1 keV, ne ≈ 1026 cm−3 , no magnetic field (d) Neutron star environment: Te ≈ 100 keV, ne ≈ 1012 cm−3 , B ≈ 108 T
+

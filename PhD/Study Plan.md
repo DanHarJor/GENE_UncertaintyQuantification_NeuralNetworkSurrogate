@@ -1,3 +1,9 @@
+
+# Additional Credits
+ - Published Papers Not in the Thesis, ASCOT AI
+ - Poster in Conferences, ICDDPS-5, 1cr
+ - Potentially some EUROFusion work in IMAS
+
 Transferible Skills, (10cr)
 https://studies.helsinki.fi/degree-structure/study-module/otm-dbc1890d-bf01-4ba6-a760-f57442fa42b9?fbclid=IwAR2UY-6CShnmuAFyCP2f83Y7RP4VW6LhOkL8nGSL1tFGx-lM273Bovd9rAE
 

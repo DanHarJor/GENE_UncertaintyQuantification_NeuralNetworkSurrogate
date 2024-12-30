@@ -1,17 +1,12 @@
-
-I will start putting the meeting agenda in the Calendar.  
+# Tobias
+To discuss:  
+Can I open my git to public GENE_UQ  
   
-Current Topics to Discuss  
-Next meeting I would like to ask if I can make my Git Repo public. It is called GENE_UQ, so maybe I should change the name before I make it public...? If I make it public then I can have a WiKi which might be useful to keep a log of what has been done and organise the direction of the project.
+Who is working on IMAS ifying GENE and what does that mean? Standard IMAS gyrokinetic input deck? Standard gyrokinetic IDS output format?
+# Ionut
 
-  
+Is there a way to do both dimensional and spatially adaptive sparse grids at the same time?
 
-More topics will be posted here as they come up.   
-  
-Best,
-
-Daniel
-___
 ### Tobias - Resource Allocation
 When playing with gene I often got an error when the number of MPI processes didn't exactly match the number of tasks requested in sbatch.
 

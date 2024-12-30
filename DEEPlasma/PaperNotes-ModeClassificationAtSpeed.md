@@ -12,6 +12,9 @@ There are many issues to consider when running Gyrokinetic simulations. Resoluti
 
 If these are all handled in an expert way to generate the training database for the surrogate model then the responsibility is taken away from the users and high quality runs are readily available to the community.
 
+Data Generation - Dimensionally Adaptive Sparse Grid. 
+There are many methods that use surrogate models to boost UQ, see Context-aware learning of hierarchies of low-fidelity models for multi-fidelity uncertainty quantification 10.1016/j.cma.2023.115908. Ionuts Farcas
+
 # Possible Modes:
 Macro Instabilities
 KBM
@@ -27,6 +30,16 @@ Numerical/Artificial Instabilities (don't exist in real life but appear in the s
 
 
 # Instability Finicky
+
+## Our Modes, Classification and Transitions
+id points ![f0](https://camo.githubusercontent.com/ea2a5d2501e08cd59cc0efdef8b58ac79761a672e63bc2d001b3c0f19f1a13b4/687474703a2f2f63686172742e617069732e676f6f676c652e636f6d2f63686172743f6368743d74782663686c3d253543766563253742782537445f6a253230253543696e253230253542302532432532303125354425354532)) using piece
+ETG is for high ky, we are starting with low ky.
+
+ITG and TEM are suppressed in the pedestal and so unlikely but can easily be detected as (ITG/TEM) class with diffusivities as in fingerprints.
+
+What is left is MTM and MHD-like instabilities. These can be distinguished with diffusivities in fingerprints paper. 
+
+With classification we can classify stable, MTM and MHD-like. The MHD-like should exist with high temp and density gradients. We can plot the grothrate as a function of these, keeping other parameters the same and find where it becomes MTM unstable. Compare surrogate model with real GENE for a few cases. Could be used to replace KBM model in EPED. 
 
 ## ETG
 "The linear system exhibits multiple (greater than ten) unstable eigenmodes at each perpendicular wave vector, representing different toroidal and slab branches of the ETG instability."

@@ -4,105 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "16a06b8de11df2f8",
+        "id": "44a721393f69b396",
         "type": "tabs",
         "children": [
           {
-            "id": "5e73fb811cc9945b",
+            "id": "bff3d41b41503324",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DEEPlasma/DataGenerationIssues/Variable Resolution.md",
+                "file": "DEEPlasma/12th of september Questions.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "12th of september Questions"
             }
           },
           {
-            "id": "2f616c28f0282533",
+            "id": "b0b762f3e0ac4264",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DEEPlasma/Q-Answers.md",
+                "file": "DEEPlasma/PaperNotes-Data Efficient Gyrokinetic Surrogate Model of Pedestal Instability Spectrum using Mode Information.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "PaperNotes-Data Efficient Gyrokinetic Surrogate Model of Pedestal Instability Spectrum using Mode Information"
             }
           },
           {
-            "id": "768f1a9086afcd73",
+            "id": "5d91b767e41f915f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ASCOT/TODO.md",
+                "file": "Untitled 2.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 2"
             }
           },
           {
-            "id": "655e71beacd8b8fa",
+            "id": "42b3276f694251f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyAchievments/7July/2024-07-17-UQomnAdded-redoUQ.md",
+                "file": "DEEPlasma/Parameters.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "49e76c4176a9f08f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TSVV1_ACH/GPR/Kernel.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "615346e5f34957c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TSVV1_ACH/SensitivityAnalysis/Sobol Indicies.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1e93daca2cc1696a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Crazy Ideas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a215c09e5d5c04f",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted Images/Pasted image 20240731194828.png"
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Parameters"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -122,7 +84,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -137,7 +101,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -145,14 +111,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 434.5
+    "width": 390.5
   },
   "right": {
     "id": "d217d876c4ecc454",
@@ -168,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TSVV1_ACH/GPR/Kernel.md",
+                "file": "DEEPlasma/Parameters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +144,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Parameters"
             }
           },
           {
@@ -185,10 +155,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TSVV1_ACH/GPR/Kernel.md",
+                "file": "DEEPlasma/Parameters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Parameters"
             }
           },
           {
@@ -199,7 +171,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -208,8 +182,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TSVV1_ACH/GPR/Kernel.md"
-              }
+                "file": "DEEPlasma/Parameters.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Parameters"
             }
           }
         ]
@@ -231,52 +207,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "49e76c4176a9f08f",
+  "active": "42b3276f694251f8",
   "lastOpenFiles": [
-    "TSVV1_ACH/GPR",
+    "DEEPlasma/k_perp.md",
+    "ASCOT/Hours.md",
+    "DEEPlasma/Paper Ideas.md",
+    "Good Ideas.md",
     "TSVV1_ACH/Brute Force Surrogate UQ AND Sparse Grid UQ.md",
-    "TSVV1_ACH/GPR/Kernel.md",
-    "TSVV1_ACH/ML-surrogate and SSG-poly Performance Required For Reliable UQ.md",
-    "TSVV1_ACH/Test Problems For SG++.md",
-    "TSVV1_ACH/Performance_Needed_For_UQ_email.pdf",
-    "TSVV1_ACH/Unconfirmed 716875.crdownload",
-    "TSVV1_ACH/Precision Adaptation.md",
-    "TSVV1_ACH/Questions.md",
-    "Pasted Images/Pasted image 20240717103810.png",
-    "Pasted Images/Pasted image 20240703152607.png",
-    "DEEPlasma/DataGenerationIssues/Variable Resolution.md",
-    "DEEPlasma/DataGenerationIssues/Active Sampling Techniques.md",
-    "References/Guthrie+Wakerling.md",
-    "DEEPlasma/DataGenerationIssues/Initial Sampling Techniques.md",
-    "TSVV1_ACH/SensitivityAnalysis/Game Theory.md",
-    "TSVV1_ACH/SensitivityAnalysis/Sobol Indicies.md",
-    "TSVV1_ACH/2024-03-21 after first gene scan.md",
-    "DEEPlasma/DataGenerationIssues/Filling The Space.md",
-    "DEEPlasma/Model Uncertainty - No Test Data.md",
-    "ConferencesWorkshops/ICDDPS5/Notes During Conference.md",
     "DEEPlasma/PaperNotes-ModeClassificationAtSpeed.md",
-    "DEEPlasma/PaperStoriesSummarised/Justin Walker - ETG turbulence in a tokamak pedestal -PoP 2023.md",
-    "DEEPlasma/DataGenerationIssues/Stable Runs Lasting Forever.md",
-    "DEEPlasma/DataGenerationIssues/Numerical Instabilities.md",
-    "DEEPlasma/DataGenerationIssues",
-    "Untitled 1.md",
+    "DEEPlasma/PaperNotes-Data Efficient Gyrokinetic Surrogate Model of Pedestal Instability Spectrum using Mode Information.md",
+    "DEEPlasma/DataGenerationIssues/Convergence Criteria.md",
+    "PhD/Turbulance Course/Paper.md",
+    "PhD/Turbulance Course",
+    "MJ Course Turbulance and Transport/7_ZonalFlows_BetaRunaway_Quasilinear.pdf",
+    "MJ Course Turbulance and Transport/8_QuasiLinear_Transport_Applications.pdf",
+    "Models to Try and Uncertainties to Quantify.md",
+    "DEEPlasma/Texas Austin Anna Notes.md",
+    "DEEPlasma/DataGenerationIssues/GENE convergence.md",
+    "Pasted image 20241120180132.png",
+    "DEEPlasma/Last Meeting.md",
+    "TSVV1_ACH/UQ Methods and Tools.md",
+    "Screenshot from 2024-11-12 19-34-18.png",
+    "DEEPlasma/ToyProblem DEEPlasma/First Meeting with David.md",
     "Untitled 3.md",
     "Untitled 2.md",
-    "Untitled.md",
-    "Pasted Images",
-    "DailyAchievments/August/2024-08-01.md",
-    "DailyAchievments/August",
-    "DailyAchievments/7July",
-    "Pasted Images/Pasted image 20240827111610.png",
-    "DEEPlasma/PaperStoriesSummarised",
-    "Pasted Images/Pasted image 20240731194828.png",
-    "UNIPDFusionClassSlides.pdf",
-    "Pasted Images/Pasted image 20240731194900.png",
-    "TSVV1_ACH/SensitivityAnalysis",
-    "A guide to generating probability distributions with neural networks _ by Sam Blake _ HAL24K TechBlog _ Medium_files/2_rQJXQWhxqLF1EnZ23_sXug.png",
-    "A guide to generating probability distributions with neural networks _ by Sam Blake _ HAL24K TechBlog _ Medium_files/2_rQJXQWhxqLF1EnZ23_sXug(2).png",
-    "A guide to generating probability distributions with neural networks _ by Sam Blake _ HAL24K TechBlog _ Medium_files/2_rQJXQWhxqLF1EnZ23_sXug(1).png",
-    "A guide to generating probability distributions with neural networks _ by Sam Blake _ HAL24K TechBlog _ Medium_files/1_wHYBbpf6TP-3xUz3X9p-LA.png",
-    "A guide to generating probability distributions with neural networks _ by Sam Blake _ HAL24K TechBlog _ Medium_files/1_uNyD4yNMH-DnOel1wzxOOA.png"
+    "DEEPlasma/Parameters.md",
+    "parameters_note.jpg",
+    "shotTi.png",
+    "DEEPlasma/Instabilities/ETG.md",
+    "DEEPlasma/Instabilities/Mode Identification.md",
+    "Pasted image 20241104134755.png",
+    "Pasted image 20241104134727.png",
+    "Pasted image 20241104134718.png",
+    "DEEPlasma/DataGenerationIssues/Stable Runs Lasting Forever.md",
+    "Pasted image 20240912161122.png",
+    "Pasted image 20240912160827.png",
+    "Pasted image 20240910192512.png",
+    "TSVV1_ACH/StaticSparseGrids/Spatially Adaptive Sparse grid.md",
+    "TSVV1_ACH/StaticSparseGrids/SSG.md",
+    "TSVV1_ACH/Meeting 09-10-2024 - First steps SG++.md",
+    "TSVV1_ACH/ML-surrogate and SSG-poly Performance Required For Reliable UQ.md",
+    "TSVV1_ACH/Neural Operator GENE semantics.md",
+    "TSVV1_ACH/Performance_Needed_For_UQ_email.pdf",
+    "Untitled.canvas",
+    "DEEPlasma/Instabilities",
+    "MJ Course Turbulance and Transport/4_Geometry_InstabilityZoo.pdf",
+    "DEEPlasma/DataGenerationIssues/Initial Sampling",
+    "DEEPlasma/Parameters File Physics",
+    "PhD/PlasmaPhysics/Exercises",
+    "PhD/PlasmaPhysics/PastPapers"
   ]
 }

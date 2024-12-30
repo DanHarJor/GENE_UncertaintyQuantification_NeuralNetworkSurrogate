@@ -1,3 +1,8 @@
+
+# 12th september - fingerprints
+
+Is it enough 
+
 # New Postdoc
 Will you get him to work on getting a saturation rule or help with surrogate modeling?
 # Can I compute the fingerprints without a saturation rule?

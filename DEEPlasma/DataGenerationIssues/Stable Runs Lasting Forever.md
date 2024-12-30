@@ -7,6 +7,10 @@ Most think that transport timescales are a very generous time cap to wait for an
 
 Tobias thinks that transport time scales may still not be long enough.
 
+# Using Flux to indicate Instability
+
+If a generous simtimelim is reached then one can look at the fluxes, if there is a small flux then it is stabel for the generous simtimelim. If there is a high flux then this suggests there are competing modes and the simulation needs to be ran for longer to let one dominate. 
+
 # Ultra Low Resolution
 Maybe an ultra low resolution can speed through the space and run for very generous simtimes to find the stable region. Potentially other regions like KBM region aswell. [[Variable Resolution]]
 

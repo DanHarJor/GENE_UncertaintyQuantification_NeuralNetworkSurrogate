@@ -31,4 +31,8 @@ MJ quasilinear expression:
 $$
 Q=-\frac{\nabla T}{T} \sum_{j, k_y} C(k_y) \frac{\gamma(j,k_y)}{<k_\perp(k_y,j)²>}   
 $$
+Assuming only dominant modes matter and ky is continuous. 
+$$
+Q = -\omega_T \int_0^\infty C(k_y) \frac{\gamma(k_y)}{<k_\perp(k_y)²>}  dk_y
+$$
 We can get everything from a linear simulation, except, $C(k_y)$ this is the saturation rule and needs to be tuned to match a non-linear simulation or experiment.  
